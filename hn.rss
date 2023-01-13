@@ -2,13 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="html">score&gt;85 &amp;#8211; hnapp</title>
   <id>http://hnapp.com/rss?q=score%3E85</id>
-  <updated>2023-01-12T20:45:57Z</updated>
+  <updated>2023-01-12T22:19:14Z</updated>
   <link href="http://hnapp.com/?q=score%3E85" />
   <link href="http://hnapp.com/rss?q=score%3E85" rel="self" />
   <author>
     <name>via hnapp</name>
   </author>
   <generator uri="http://hnapp.com">hnapp</generator>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">86 &amp;#8211; Your tech stack is not the product</title>
+    <id>https://news.ycombinator.com/item?id=34361063</id>
+    <updated>2023-01-12T22:19:14Z</updated>
+    <published>2023-01-12T22:19:14Z</published>
+    <link href="https://hoho.com/posts/your-stack-is-not-the-product/" />
+    <author>
+      <name>brendannee</name>
+    </author>
+    <content type="html">&lt;p&gt;86 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34361063&quot;&gt;78 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34361063&quot;&gt;78 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">133 &amp;#8211; Supporting the Use of Rust in the Chromium Project</title>
+    <id>https://news.ycombinator.com/item?id=34360179</id>
+    <updated>2023-01-12T21:00:08Z</updated>
+    <published>2023-01-12T21:00:08Z</published>
+    <link href="https://security.googleblog.com/2023/01/supporting-use-of-rust-in-chromium.html" />
+    <author>
+      <name>mfiguiere</name>
+    </author>
+    <content type="html">&lt;p&gt;133 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34360179&quot;&gt;48 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34360179&quot;&gt;48 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">190 &amp;#8211; The James Webb Space Telescope is finding too many early galaxies</title>
     <id>https://news.ycombinator.com/item?id=34360010</id>
@@ -18,10 +40,10 @@
     <author>
       <name>cainxinth</name>
     </author>
-    <content type="html">&lt;p&gt;190 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34360010&quot;&gt;171 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34360010&quot;&gt;171 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;190 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34360010&quot;&gt;265 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34360010&quot;&gt;265 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">86 &amp;#8211; Webb confirms its first exoplanet</title>
+    <title type="html">119 &amp;#8211; Webb confirms its first exoplanet</title>
     <id>https://news.ycombinator.com/item?id=34359839</id>
     <updated>2023-01-12T20:30:22Z</updated>
     <published>2023-01-12T20:30:22Z</published>
@@ -29,10 +51,10 @@
     <author>
       <name>perihelions</name>
     </author>
-    <content type="html">&lt;p&gt;86 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34359839&quot;&gt;16 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34359839&quot;&gt;16 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;119 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34359839&quot;&gt;29 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34359839&quot;&gt;29 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">137 &amp;#8211; Nintendo 64 Java</title>
+    <title type="html">202 &amp;#8211; Nintendo 64 Java</title>
     <id>https://news.ycombinator.com/item?id=34359656</id>
     <updated>2023-01-12T20:15:10Z</updated>
     <published>2023-01-12T20:15:10Z</published>
@@ -40,10 +62,43 @@
     <author>
       <name>zdw</name>
     </author>
-    <content type="html">&lt;p&gt;137 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34359656&quot;&gt;25 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34359656&quot;&gt;25 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;202 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34359656&quot;&gt;35 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34359656&quot;&gt;35 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">186 &amp;#8211; The UK is wasting a lot of wind power</title>
+    <title type="html">93 &amp;#8211; Niron Magnetics &amp;#8211; powerful, rare earth-free permanent magnets</title>
+    <id>https://news.ycombinator.com/item?id=34359383</id>
+    <updated>2023-01-12T19:53:39Z</updated>
+    <published>2023-01-12T19:53:39Z</published>
+    <link href="https://www.nironmagnetics.com/" />
+    <author>
+      <name>telotortium</name>
+    </author>
+    <content type="html">&lt;p&gt;93 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34359383&quot;&gt;48 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34359383&quot;&gt;48 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">88 &amp;#8211; Researchers cannot always differentiate AI-generated and original abstracts</title>
+    <id>https://news.ycombinator.com/item?id=34359119</id>
+    <updated>2023-01-12T19:34:13Z</updated>
+    <published>2023-01-12T19:34:13Z</published>
+    <link href="https://www.nature.com/articles/d41586-023-00056-7" />
+    <author>
+      <name>headalgorithm</name>
+    </author>
+    <content type="html">&lt;p&gt;88 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34359119&quot;&gt;87 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34359119&quot;&gt;87 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">99 &amp;#8211; Lid &amp;#8211; Lo-fi image dithering</title>
+    <id>https://news.ycombinator.com/item?id=34358828</id>
+    <updated>2023-01-12T19:11:17Z</updated>
+    <published>2023-01-12T19:11:17Z</published>
+    <link href="https://rawtext.club/~sloum/lid.html" />
+    <author>
+      <name>ecliptik</name>
+    </author>
+    <content type="html">&lt;p&gt;99 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34358828&quot;&gt;29 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34358828&quot;&gt;29 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">259 &amp;#8211; The UK is wasting a lot of wind power</title>
     <id>https://news.ycombinator.com/item?id=34358795</id>
     <updated>2023-01-12T19:08:36Z</updated>
     <published>2023-01-12T19:08:36Z</published>
@@ -51,10 +106,10 @@
     <author>
       <name>RobinL</name>
     </author>
-    <content type="html">&lt;p&gt;186 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34358795&quot;&gt;182 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34358795&quot;&gt;182 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;259 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34358795&quot;&gt;224 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34358795&quot;&gt;224 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">133 &amp;#8211; Revealed: Exxon made &amp;#8216;breathtakingly&amp;#8217; accurate climate predictions in 70s &amp; 80s</title>
+    <title type="html">145 &amp;#8211; Revealed: Exxon made &amp;#8216;breathtakingly&amp;#8217; accurate climate predictions in 70s &amp; 80s</title>
     <id>https://news.ycombinator.com/item?id=34358759</id>
     <updated>2023-01-12T19:05:59Z</updated>
     <published>2023-01-12T19:05:59Z</published>
@@ -62,10 +117,10 @@
     <author>
       <name>helsinkiandrew</name>
     </author>
-    <content type="html">&lt;p&gt;133 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34358759&quot;&gt;105 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34358759&quot;&gt;105 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;145 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34358759&quot;&gt;111 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34358759&quot;&gt;111 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">157 &amp;#8211; U.S. cancer death rate has dropped by a third since 1991</title>
+    <title type="html">167 &amp;#8211; U.S. cancer death rate has dropped by a third since 1991</title>
     <id>https://news.ycombinator.com/item?id=34357895</id>
     <updated>2023-01-12T18:08:27Z</updated>
     <published>2023-01-12T18:08:27Z</published>
@@ -73,10 +128,10 @@
     <author>
       <name>impish9208</name>
     </author>
-    <content type="html">&lt;p&gt;157 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34357895&quot;&gt;67 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34357895&quot;&gt;67 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;167 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34357895&quot;&gt;80 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34357895&quot;&gt;80 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">91 &amp;#8211; Extreme 'rogue wave' in the North Pacific confirmed as most extreme on record</title>
+    <title type="html">95 &amp;#8211; Extreme 'rogue wave' in the North Pacific confirmed as most extreme on record</title>
     <id>https://news.ycombinator.com/item?id=34357580</id>
     <updated>2023-01-12T17:48:04Z</updated>
     <published>2023-01-12T17:48:04Z</published>
@@ -84,10 +139,10 @@
     <author>
       <name>gardenfelder</name>
     </author>
-    <content type="html">&lt;p&gt;91 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=34357580&quot;&gt;69 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34357580&quot;&gt;69 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;95 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34357580&quot;&gt;72 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34357580&quot;&gt;72 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">159 &amp;#8211; Part II: The failure points from $5M to $100M in ARR</title>
+    <title type="html">187 &amp;#8211; Part II: The failure points from $5M to $100M in ARR</title>
     <id>https://news.ycombinator.com/item?id=34357176</id>
     <updated>2023-01-12T17:23:46Z</updated>
     <published>2023-01-12T17:23:46Z</published>
@@ -95,10 +150,10 @@
     <author>
       <name>tyoung</name>
     </author>
-    <content type="html">&lt;p&gt;159 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34357176&quot;&gt;69 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34357176&quot;&gt;69 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;187 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34357176&quot;&gt;89 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34357176&quot;&gt;89 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">151 &amp;#8211; Vulkan Tutorial (Rust)</title>
+    <title type="html">156 &amp;#8211; Vulkan Tutorial (Rust)</title>
     <id>https://news.ycombinator.com/item?id=34356060</id>
     <updated>2023-01-12T16:30:12Z</updated>
     <published>2023-01-12T16:30:12Z</published>
@@ -106,10 +161,10 @@
     <author>
       <name>ibobev</name>
     </author>
-    <content type="html">&lt;p&gt;151 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=34356060&quot;&gt;32 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34356060&quot;&gt;32 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;156 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34356060&quot;&gt;32 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34356060&quot;&gt;32 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">150 &amp;#8211; CEO Jack Altman&amp;#8217;s email to Lattice employees</title>
+    <title type="html">154 &amp;#8211; CEO Jack Altman&amp;#8217;s email to Lattice employees</title>
     <id>https://news.ycombinator.com/item?id=34355857</id>
     <updated>2023-01-12T16:19:52Z</updated>
     <published>2023-01-12T16:19:52Z</published>
@@ -117,10 +172,10 @@
     <author>
       <name>miletus</name>
     </author>
-    <content type="html">&lt;p&gt;150 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34355857&quot;&gt;184 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34355857&quot;&gt;184 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;154 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34355857&quot;&gt;190 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34355857&quot;&gt;190 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">139 &amp;#8211; System76 AMD-Only Laptop Returns</title>
+    <title type="html">156 &amp;#8211; System76 AMD-Only Laptop Returns</title>
     <id>https://news.ycombinator.com/item?id=34355669</id>
     <updated>2023-01-12T16:09:54Z</updated>
     <published>2023-01-12T16:09:54Z</published>
@@ -128,10 +183,10 @@
     <author>
       <name>bananicorn</name>
     </author>
-    <content type="html">&lt;p&gt;139 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34355669&quot;&gt;184 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34355669&quot;&gt;184 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;156 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34355669&quot;&gt;203 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34355669&quot;&gt;203 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">209 &amp;#8211; Eggs are 60% more expensive than last year in the US</title>
+    <title type="html">213 &amp;#8211; Eggs are 60% more expensive than last year in the US</title>
     <id>https://news.ycombinator.com/item?id=34354962</id>
     <updated>2023-01-12T15:30:32Z</updated>
     <published>2023-01-12T15:30:32Z</published>
@@ -139,10 +194,10 @@
     <author>
       <name>mfiguiere</name>
     </author>
-    <content type="html">&lt;p&gt;209 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34354962&quot;&gt;338 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34354962&quot;&gt;338 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;213 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34354962&quot;&gt;348 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34354962&quot;&gt;348 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">199 &amp;#8211; Medium Embraces Mastodon</title>
+    <title type="html">202 &amp;#8211; Medium Embraces Mastodon</title>
     <id>https://news.ycombinator.com/item?id=34354506</id>
     <updated>2023-01-12T15:04:27Z</updated>
     <published>2023-01-12T15:04:27Z</published>
@@ -150,10 +205,10 @@
     <author>
       <name>ecliptik</name>
     </author>
-    <content type="html">&lt;p&gt;199 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34354506&quot;&gt;126 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34354506&quot;&gt;126 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;202 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34354506&quot;&gt;126 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34354506&quot;&gt;126 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">452 &amp;#8211; Grayscale on 1-bit LCDs (2022)</title>
+    <title type="html">488 &amp;#8211; Grayscale on 1-bit LCDs (2022)</title>
     <id>https://news.ycombinator.com/item?id=34354213</id>
     <updated>2023-01-12T14:47:14Z</updated>
     <published>2023-01-12T14:47:14Z</published>
@@ -161,10 +216,10 @@
     <author>
       <name>_Microft</name>
     </author>
-    <content type="html">&lt;p&gt;452 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34354213&quot;&gt;74 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34354213&quot;&gt;74 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;488 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34354213&quot;&gt;76 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34354213&quot;&gt;76 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">121 &amp;#8211; Mexico&amp;#8217;s subway drivers depend on WhatsApp to keep the trains running</title>
+    <title type="html">124 &amp;#8211; Mexico&amp;#8217;s subway drivers depend on WhatsApp to keep the trains running</title>
     <id>https://news.ycombinator.com/item?id=34353802</id>
     <updated>2023-01-12T14:18:55Z</updated>
     <published>2023-01-12T14:18:55Z</published>
@@ -172,10 +227,21 @@
     <author>
       <name>impish9208</name>
     </author>
-    <content type="html">&lt;p&gt;121 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=34353802&quot;&gt;64 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34353802&quot;&gt;64 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;124 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34353802&quot;&gt;66 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34353802&quot;&gt;66 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">128 &amp;#8211; Ask HN: Can you crowdfund the compute for GPT?</title>
+    <title type="html">92 &amp;#8211; Intel Launches $699 Core I9-13900KS, the First 6 GHz CPU: Available Now</title>
+    <id>https://news.ycombinator.com/item?id=34353783</id>
+    <updated>2023-01-12T14:17:41Z</updated>
+    <published>2023-01-12T14:17:41Z</published>
+    <link href="https://www.tomshardware.com/news/intel-launches-dollar699-core-i9-13900ks-the-worlds-first-6-ghz-cpu-available-now" />
+    <author>
+      <name>rbanffy</name>
+    </author>
+    <content type="html">&lt;p&gt;92 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34353783&quot;&gt;115 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34353783&quot;&gt;115 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">134 &amp;#8211; Ask HN: Can you crowdfund the compute for GPT?</title>
     <id>https://news.ycombinator.com/item?id=34353049</id>
     <updated>2023-01-12T13:20:39Z</updated>
     <published>2023-01-12T13:20:39Z</published>
@@ -183,10 +249,10 @@
     <author>
       <name>asim</name>
     </author>
-    <content type="html">&lt;p&gt;128 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34353049&quot;&gt;137 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34353049&quot;&gt;137 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;134 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34353049&quot;&gt;138 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34353049&quot;&gt;138 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">293 &amp;#8211; SQLite Wasm in the browser backed by the Origin Private File System</title>
+    <title type="html">315 &amp;#8211; SQLite Wasm in the browser backed by the Origin Private File System</title>
     <id>https://news.ycombinator.com/item?id=34352935</id>
     <updated>2023-01-12T13:11:04Z</updated>
     <published>2023-01-12T13:11:04Z</published>
@@ -194,10 +260,10 @@
     <author>
       <name>bubblehack3r</name>
     </author>
-    <content type="html">&lt;p&gt;293 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34352935&quot;&gt;170 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34352935&quot;&gt;170 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;315 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34352935&quot;&gt;180 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34352935&quot;&gt;180 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">124 &amp;#8211; Do heat pumps work in cold climates?</title>
+    <title type="html">133 &amp;#8211; Do heat pumps work in cold climates?</title>
     <id>https://news.ycombinator.com/item?id=34352309</id>
     <updated>2023-01-12T12:07:17Z</updated>
     <published>2023-01-12T12:07:17Z</published>
@@ -205,10 +271,10 @@
     <author>
       <name>tejohnso</name>
     </author>
-    <content type="html">&lt;p&gt;124 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34352309&quot;&gt;295 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34352309&quot;&gt;295 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;133 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34352309&quot;&gt;303 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34352309&quot;&gt;303 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">158 &amp;#8211; Bulgarian law enforcement raids offices of cryptocurrency firm Nexo</title>
+    <title type="html">159 &amp;#8211; Bulgarian law enforcement raids offices of cryptocurrency firm Nexo</title>
     <id>https://news.ycombinator.com/item?id=34352120</id>
     <updated>2023-01-12T11:42:46Z</updated>
     <published>2023-01-12T11:42:46Z</published>
@@ -216,10 +282,10 @@
     <author>
       <name>gchokov</name>
     </author>
-    <content type="html">&lt;p&gt;158 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34352120&quot;&gt;117 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34352120&quot;&gt;117 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;159 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34352120&quot;&gt;119 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34352120&quot;&gt;119 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">473 &amp;#8211; Europe's largest deposit of rare earth metals discovered in Sweden</title>
+    <title type="html">480 &amp;#8211; Europe's largest deposit of rare earth metals discovered in Sweden</title>
     <id>https://news.ycombinator.com/item?id=34352040</id>
     <updated>2023-01-12T11:30:45Z</updated>
     <published>2023-01-12T11:30:45Z</published>
@@ -227,10 +293,10 @@
     <author>
       <name>daaayum</name>
     </author>
-    <content type="html">&lt;p&gt;473 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34352040&quot;&gt;304 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34352040&quot;&gt;304 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;480 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34352040&quot;&gt;309 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34352040&quot;&gt;309 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">117 &amp;#8211; The curious Soviet mini-sub of South Alabama (2018)</title>
+    <title type="html">119 &amp;#8211; The curious Soviet mini-sub of South Alabama (2018)</title>
     <id>https://news.ycombinator.com/item?id=34351710</id>
     <updated>2023-01-12T10:46:06Z</updated>
     <published>2023-01-12T10:46:06Z</published>
@@ -238,10 +304,10 @@
     <author>
       <name>vinnyglennon</name>
     </author>
-    <content type="html">&lt;p&gt;117 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34351710&quot;&gt;34 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34351710&quot;&gt;34 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;119 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34351710&quot;&gt;34 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34351710&quot;&gt;34 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">491 &amp;#8211; The Yaml document from hell</title>
+    <title type="html">501 &amp;#8211; The Yaml document from hell</title>
     <id>https://news.ycombinator.com/item?id=34351503</id>
     <updated>2023-01-12T10:15:41Z</updated>
     <published>2023-01-12T10:15:41Z</published>
@@ -249,10 +315,10 @@
     <author>
       <name>ruuda</name>
     </author>
-    <content type="html">&lt;p&gt;491 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=34351503&quot;&gt;315 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34351503&quot;&gt;315 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;501 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=34351503&quot;&gt;319 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34351503&quot;&gt;319 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">179 &amp;#8211; Roomba testers feel misled after intimate images ended up on Facebook</title>
+    <title type="html">183 &amp;#8211; Roomba testers feel misled after intimate images ended up on Facebook</title>
     <id>https://news.ycombinator.com/item?id=34351078</id>
     <updated>2023-01-12T09:21:56Z</updated>
     <published>2023-01-12T09:21:56Z</published>
@@ -260,7 +326,7 @@
     <author>
       <name>robin_reala</name>
     </author>
-    <content type="html">&lt;p&gt;179 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34351078&quot;&gt;148 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34351078&quot;&gt;148 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;183 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34351078&quot;&gt;152 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34351078&quot;&gt;152 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">92 &amp;#8211; What if writing tests was a joyful experience?</title>
@@ -271,72 +337,6 @@
     <author>
       <name>grncdr</name>
     </author>
-    <content type="html">&lt;p&gt;92 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34350749&quot;&gt;108 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34350749&quot;&gt;108 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">286 &amp;#8211; Geoffrey Hinton publishes new deep learning algorithm</title>
-    <id>https://news.ycombinator.com/item?id=34350662</id>
-    <updated>2023-01-12T08:22:18Z</updated>
-    <published>2023-01-12T08:22:18Z</published>
-    <link href="https://www.infoq.com/news/2023/01/hinton-forward-algorithm/" />
-    <author>
-      <name>danboarder</name>
-    </author>
-    <content type="html">&lt;p&gt;286 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34350662&quot;&gt;116 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34350662&quot;&gt;116 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">427 &amp;#8211; Ask HN: Strategies for working with engineers that are too smart?</title>
-    <id>https://news.ycombinator.com/item?id=34350446</id>
-    <updated>2023-01-12T07:51:56Z</updated>
-    <published>2023-01-12T07:51:56Z</published>
-    <link href="https://news.ycombinator.com/item?id=34350446" />
-    <author>
-      <name>throwitawaaay</name>
-    </author>
-    <content type="html">&lt;p&gt;427 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34350446&quot;&gt;425 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34350446&quot;&gt;425 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">277 &amp;#8211; Kristall &amp;#8211; a browser without support for CSS/JS/WASM or graphical websites</title>
-    <id>https://news.ycombinator.com/item?id=34350436</id>
-    <updated>2023-01-12T07:50:26Z</updated>
-    <published>2023-01-12T07:50:26Z</published>
-    <link href="https://kristall.random-projects.net/" />
-    <author>
-      <name>tsujp</name>
-    </author>
-    <content type="html">&lt;p&gt;277 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34350436&quot;&gt;177 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34350436&quot;&gt;177 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">147 &amp;#8211; Pictures of a working garbage collector</title>
-    <id>https://news.ycombinator.com/item?id=34350260</id>
-    <updated>2023-01-12T07:21:37Z</updated>
-    <published>2023-01-12T07:21:37Z</published>
-    <link href="https://www.oilshell.org/blog/2023/01/garbage-collector.html" />
-    <author>
-      <name>todsacerdoti</name>
-    </author>
-    <content type="html">&lt;p&gt;147 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34350260&quot;&gt;49 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34350260&quot;&gt;49 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">140 &amp;#8211; The disappearance of the hit-driven business model</title>
-    <id>https://news.ycombinator.com/item?id=34349715</id>
-    <updated>2023-01-12T05:52:40Z</updated>
-    <published>2023-01-12T05:52:40Z</published>
-    <link href="https://dearproducer.com/the-disappearance-of-the-hit-driven-business/" />
-    <author>
-      <name>Flatcircle</name>
-    </author>
-    <content type="html">&lt;p&gt;140 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34349715&quot;&gt;154 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34349715&quot;&gt;154 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">169 &amp;#8211; Amazon loses bid to overturn historic union win on Staten Island warehouse</title>
-    <id>https://news.ycombinator.com/item?id=34348720</id>
-    <updated>2023-01-12T03:16:04Z</updated>
-    <published>2023-01-12T03:16:04Z</published>
-    <link href="https://www.npr.org/2023/01/11/1125205641/amazon-warehouse-union-staten-island" />
-    <author>
-      <name>ceejayoz</name>
-    </author>
-    <content type="html">&lt;p&gt;169 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34348720&quot;&gt;162 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34348720&quot;&gt;162 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;92 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34350749&quot;&gt;112 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34350749&quot;&gt;112 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
