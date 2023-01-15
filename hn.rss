@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="html">score&gt;85 &amp;#8211; hnapp</title>
   <id>http://hnapp.com/rss?q=score%3E85</id>
-  <updated>2023-01-15T12:54:17Z</updated>
+  <updated>2023-01-15T13:12:38Z</updated>
   <link href="http://hnapp.com/?q=score%3E85" />
   <link href="http://hnapp.com/rss?q=score%3E85" rel="self" />
   <author>
@@ -10,7 +10,18 @@
   </author>
   <generator uri="http://hnapp.com">hnapp</generator>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">170 &amp;#8211; The Fourier Transform, explained in one sentence</title>
+    <title type="html">121 &amp;#8211; A formula for the n&amp;#8217;th digit of &amp;#120587; and &amp;#120587;^n</title>
+    <id>https://news.ycombinator.com/item?id=34389145</id>
+    <updated>2023-01-15T13:12:38Z</updated>
+    <published>2023-01-15T13:12:38Z</published>
+    <link href="https://arxiv.org/abs/2201.12601" />
+    <author>
+      <name>georgehill</name>
+    </author>
+    <content type="html">&lt;p&gt;121 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=34389145&quot;&gt;47 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34389145&quot;&gt;47 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">232 &amp;#8211; The Fourier Transform, explained in one sentence</title>
     <id>https://news.ycombinator.com/item?id=34389037</id>
     <updated>2023-01-15T12:54:17Z</updated>
     <published>2023-01-15T12:54:17Z</published>
@@ -18,10 +29,10 @@
     <author>
       <name>signa11</name>
     </author>
-    <content type="html">&lt;p&gt;170 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34389037&quot;&gt;80 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34389037&quot;&gt;80 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;232 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34389037&quot;&gt;96 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34389037&quot;&gt;96 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">127 &amp;#8211; I'm Shadow Banned by DuckDuckGo (and Bing)</title>
+    <title type="html">139 &amp;#8211; I'm Shadow Banned by DuckDuckGo (and Bing)</title>
     <id>https://news.ycombinator.com/item?id=34388962</id>
     <updated>2023-01-15T12:39:16Z</updated>
     <published>2023-01-15T12:39:16Z</published>
@@ -29,7 +40,7 @@
     <author>
       <name>stilldyl</name>
     </author>
-    <content type="html">&lt;p&gt;127 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34388962&quot;&gt;97 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34388962&quot;&gt;97 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;139 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34388962&quot;&gt;113 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34388962&quot;&gt;113 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">111 &amp;#8211; Ask HN: How do you trust that your personal machine is not compromised?</title>
@@ -40,10 +51,21 @@
     <author>
       <name>coderatlarge</name>
     </author>
-    <content type="html">&lt;p&gt;111 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=34388866&quot;&gt;211 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34388866&quot;&gt;211 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;111 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=34388866&quot;&gt;256 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34388866&quot;&gt;256 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">96 &amp;#8211; Twitter API Page</title>
+    <title type="html">89 &amp;#8211; SLT &amp;#8211; A Common Lisp Language Plugin for Jetbrains IDE Lineup</title>
+    <id>https://news.ycombinator.com/item?id=34388369</id>
+    <updated>2023-01-15T10:30:22Z</updated>
+    <published>2023-01-15T10:30:22Z</published>
+    <link href="https://github.com/Enerccio/SLT" />
+    <author>
+      <name>gjvc</name>
+    </author>
+    <content type="html">&lt;p&gt;89 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34388369&quot;&gt;13 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34388369&quot;&gt;13 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">104 &amp;#8211; Twitter API Page</title>
     <id>https://news.ycombinator.com/item?id=34387834</id>
     <updated>2023-01-15T08:37:14Z</updated>
     <published>2023-01-15T08:37:14Z</published>
@@ -51,10 +73,10 @@
     <author>
       <name>mrzool</name>
     </author>
-    <content type="html">&lt;p&gt;96 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34387834&quot;&gt;53 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34387834&quot;&gt;53 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;104 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34387834&quot;&gt;62 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34387834&quot;&gt;62 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">157 &amp;#8211; Ubuntu 22.04 LTS servers and phased apt updates</title>
+    <title type="html">169 &amp;#8211; Ubuntu 22.04 LTS servers and phased apt updates</title>
     <id>https://news.ycombinator.com/item?id=34387409</id>
     <updated>2023-01-15T07:18:33Z</updated>
     <published>2023-01-15T07:18:33Z</published>
@@ -62,10 +84,10 @@
     <author>
       <name>goranmoomin</name>
     </author>
-    <content type="html">&lt;p&gt;157 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34387409&quot;&gt;77 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34387409&quot;&gt;77 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;169 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34387409&quot;&gt;89 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34387409&quot;&gt;89 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">171 &amp;#8211; Faster than the filesystem (2021)</title>
+    <title type="html">177 &amp;#8211; Faster than the filesystem (2021)</title>
     <id>https://news.ycombinator.com/item?id=34387407</id>
     <updated>2023-01-15T07:18:20Z</updated>
     <published>2023-01-15T07:18:20Z</published>
@@ -73,10 +95,10 @@
     <author>
       <name>madmax108</name>
     </author>
-    <content type="html">&lt;p&gt;171 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=34387407&quot;&gt;106 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34387407&quot;&gt;106 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;177 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34387407&quot;&gt;110 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34387407&quot;&gt;110 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">177 &amp;#8211; Money creation in the modern economy (2014) [pdf]</title>
+    <title type="html">186 &amp;#8211; Money creation in the modern economy (2014) [pdf]</title>
     <id>https://news.ycombinator.com/item?id=34386876</id>
     <updated>2023-01-15T05:04:39Z</updated>
     <published>2023-01-15T05:04:39Z</published>
@@ -84,10 +106,10 @@
     <author>
       <name>sytelus</name>
     </author>
-    <content type="html">&lt;p&gt;177 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34386876&quot;&gt;223 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34386876&quot;&gt;223 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;186 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34386876&quot;&gt;229 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34386876&quot;&gt;229 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">100 &amp;#8211; The Bibites: Artificial Life Simulation</title>
+    <title type="html">112 &amp;#8211; The Bibites: Artificial Life Simulation</title>
     <id>https://news.ycombinator.com/item?id=34386570</id>
     <updated>2023-01-15T03:51:17Z</updated>
     <published>2023-01-15T03:51:17Z</published>
@@ -95,10 +117,10 @@
     <author>
       <name>doublextremevil</name>
     </author>
-    <content type="html">&lt;p&gt;100 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34386570&quot;&gt;10 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34386570&quot;&gt;10 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;112 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34386570&quot;&gt;11 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34386570&quot;&gt;11 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">126 &amp;#8211; ChatGPT scores 80% on SAT reading/writing with collective chain of thought</title>
+    <title type="html">131 &amp;#8211; ChatGPT scores 80% on SAT reading/writing with collective chain of thought</title>
     <id>https://news.ycombinator.com/item?id=34386449</id>
     <updated>2023-01-15T03:21:00Z</updated>
     <published>2023-01-15T03:21:00Z</published>
@@ -106,10 +128,10 @@
     <author>
       <name>EGreg</name>
     </author>
-    <content type="html">&lt;p&gt;126 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34386449&quot;&gt;89 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34386449&quot;&gt;89 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;131 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=34386449&quot;&gt;98 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34386449&quot;&gt;98 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">125 &amp;#8211; Running KDE Plasma on RISC-V VisionFive-2</title>
+    <title type="html">130 &amp;#8211; Running KDE Plasma on RISC-V VisionFive-2</title>
     <id>https://news.ycombinator.com/item?id=34386309</id>
     <updated>2023-01-15T02:48:02Z</updated>
     <published>2023-01-15T02:48:02Z</published>
@@ -117,10 +139,10 @@
     <author>
       <name>pabs3</name>
     </author>
-    <content type="html">&lt;p&gt;125 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34386309&quot;&gt;27 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34386309&quot;&gt;27 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;130 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34386309&quot;&gt;28 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34386309&quot;&gt;28 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">120 &amp;#8211; VToonify: Controllable high-resolution portrait video style transfer</title>
+    <title type="html">129 &amp;#8211; VToonify: Controllable high-resolution portrait video style transfer</title>
     <id>https://news.ycombinator.com/item?id=34386052</id>
     <updated>2023-01-15T02:02:04Z</updated>
     <published>2023-01-15T02:02:04Z</published>
@@ -128,10 +150,10 @@
     <author>
       <name>godmode2019</name>
     </author>
-    <content type="html">&lt;p&gt;120 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34386052&quot;&gt;19 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34386052&quot;&gt;19 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;129 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34386052&quot;&gt;20 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34386052&quot;&gt;20 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">325 &amp;#8211; CircleCI says hackers stole encryption keys and customers&amp;#8217; source code</title>
+    <title type="html">350 &amp;#8211; CircleCI says hackers stole encryption keys and customers&amp;#8217; source code</title>
     <id>https://news.ycombinator.com/item?id=34386017</id>
     <updated>2023-01-15T01:57:32Z</updated>
     <published>2023-01-15T01:57:32Z</published>
@@ -139,7 +161,7 @@
     <author>
       <name>kuter</name>
     </author>
-    <content type="html">&lt;p&gt;325 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34386017&quot;&gt;132 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34386017&quot;&gt;132 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;350 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34386017&quot;&gt;132 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34386017&quot;&gt;132 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">147 &amp;#8211; A Letter from _why (2005)</title>
@@ -153,7 +175,7 @@
     <content type="html">&lt;p&gt;147 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34385985&quot;&gt;64 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34385985&quot;&gt;64 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">120 &amp;#8211; Death of Korea's 'apartment king' leaves 100s in property purgatory</title>
+    <title type="html">121 &amp;#8211; Death of Korea's 'apartment king' leaves 100s in property purgatory</title>
     <id>https://news.ycombinator.com/item?id=34385951</id>
     <updated>2023-01-15T01:42:02Z</updated>
     <published>2023-01-15T01:42:02Z</published>
@@ -161,7 +183,7 @@
     <author>
       <name>tsujamin</name>
     </author>
-    <content type="html">&lt;p&gt;120 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34385951&quot;&gt;56 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34385951&quot;&gt;56 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;121 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=34385951&quot;&gt;56 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34385951&quot;&gt;56 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">128 &amp;#8211; Two research teams reverse signs of aging in mice</title>
@@ -172,10 +194,10 @@
     <author>
       <name>bookofjoe</name>
     </author>
-    <content type="html">&lt;p&gt;128 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34385785&quot;&gt;88 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34385785&quot;&gt;88 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;128 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34385785&quot;&gt;91 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34385785&quot;&gt;91 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">432 &amp;#8211; Four thousand weeks</title>
+    <title type="html">445 &amp;#8211; Four thousand weeks</title>
     <id>https://news.ycombinator.com/item?id=34385766</id>
     <updated>2023-01-15T01:13:16Z</updated>
     <published>2023-01-15T01:13:16Z</published>
@@ -183,7 +205,7 @@
     <author>
       <name>jparise</name>
     </author>
-    <content type="html">&lt;p&gt;432 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34385766&quot;&gt;211 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34385766&quot;&gt;211 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;445 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34385766&quot;&gt;223 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34385766&quot;&gt;223 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">93 &amp;#8211; &amp;#8216;Excuuuuse me, Princess &amp;#8217;: An oral history of The Legend of Zelda cartoon</title>
@@ -197,7 +219,7 @@
     <content type="html">&lt;p&gt;93 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34385223&quot;&gt;67 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34385223&quot;&gt;67 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">158 &amp;#8211; ZSWatch &amp;#8211; Open-source Zephyr-based smartwatch</title>
+    <title type="html">159 &amp;#8211; ZSWatch &amp;#8211; Open-source Zephyr-based smartwatch</title>
     <id>https://news.ycombinator.com/item?id=34384941</id>
     <updated>2023-01-14T22:54:04Z</updated>
     <published>2023-01-14T22:54:04Z</published>
@@ -205,7 +227,7 @@
     <author>
       <name>_Microft</name>
     </author>
-    <content type="html">&lt;p&gt;158 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34384941&quot;&gt;41 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34384941&quot;&gt;41 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;159 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34384941&quot;&gt;41 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34384941&quot;&gt;41 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">99 &amp;#8211; Show HN: Robyn &amp;#8211; A fast, extensible async Python web server with a Rust runtime</title>
@@ -219,7 +241,7 @@
     <content type="html">&lt;p&gt;99 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34384936&quot;&gt;41 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34384936&quot;&gt;41 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">274 &amp;#8211; The Inner Beauty of Basic Electronics</title>
+    <title type="html">280 &amp;#8211; The Inner Beauty of Basic Electronics</title>
     <id>https://news.ycombinator.com/item?id=34384825</id>
     <updated>2023-01-14T22:37:56Z</updated>
     <published>2023-01-14T22:37:56Z</published>
@@ -227,7 +249,7 @@
     <author>
       <name>sohkamyung</name>
     </author>
-    <content type="html">&lt;p&gt;274 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34384825&quot;&gt;63 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34384825&quot;&gt;63 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;280 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34384825&quot;&gt;64 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34384825&quot;&gt;64 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">130 &amp;#8211; DragonFlyBSD's HAMMER2 File-System Being Ported to NetBSD</title>
@@ -238,10 +260,10 @@
     <author>
       <name>networked</name>
     </author>
-    <content type="html">&lt;p&gt;130 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34384767&quot;&gt;36 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34384767&quot;&gt;36 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;130 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34384767&quot;&gt;40 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34384767&quot;&gt;40 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">193 &amp;#8211; Things I Learned from My 2 Year Old Baby Girl</title>
+    <title type="html">195 &amp;#8211; Things I Learned from My 2 Year Old Baby Girl</title>
     <id>https://news.ycombinator.com/item?id=34384730</id>
     <updated>2023-01-14T22:23:54Z</updated>
     <published>2023-01-14T22:23:54Z</published>
@@ -249,10 +271,10 @@
     <author>
       <name>exolymph</name>
     </author>
-    <content type="html">&lt;p&gt;193 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34384730&quot;&gt;91 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34384730&quot;&gt;91 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;195 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34384730&quot;&gt;97 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34384730&quot;&gt;97 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">165 &amp;#8211; Use.GPU Goes Trad</title>
+    <title type="html">166 &amp;#8211; Use.GPU Goes Trad</title>
     <id>https://news.ycombinator.com/item?id=34384719</id>
     <updated>2023-01-14T22:22:22Z</updated>
     <published>2023-01-14T22:22:22Z</published>
@@ -260,7 +282,7 @@
     <author>
       <name>puzzlingcaptcha</name>
     </author>
-    <content type="html">&lt;p&gt;165 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34384719&quot;&gt;33 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34384719&quot;&gt;33 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;166 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34384719&quot;&gt;36 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34384719&quot;&gt;36 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">90 &amp;#8211; 1991: A server-side web framework written in Forth</title>
@@ -271,7 +293,7 @@
     <author>
       <name>popcalc</name>
     </author>
-    <content type="html">&lt;p&gt;90 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34384681&quot;&gt;17 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34384681&quot;&gt;17 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;90 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34384681&quot;&gt;18 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34384681&quot;&gt;18 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">92 &amp;#8211; Stripe issues</title>
@@ -285,7 +307,7 @@
     <content type="html">&lt;p&gt;92 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34383720&quot;&gt;76 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34383720&quot;&gt;76 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">385 &amp;#8211; NASA&amp;#8217;s Double Asteroid Redirection Test Is a Smashing Success</title>
+    <title type="html">388 &amp;#8211; NASA&amp;#8217;s Double Asteroid Redirection Test Is a Smashing Success</title>
     <id>https://news.ycombinator.com/item?id=34383529</id>
     <updated>2023-01-14T19:53:52Z</updated>
     <published>2023-01-14T19:53:52Z</published>
@@ -293,7 +315,7 @@
     <author>
       <name>DocFeind</name>
     </author>
-    <content type="html">&lt;p&gt;385 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34383529&quot;&gt;229 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34383529&quot;&gt;229 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;388 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34383529&quot;&gt;234 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34383529&quot;&gt;234 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">92 &amp;#8211; I don't understand terminals, shells and SSH</title>
@@ -307,7 +329,7 @@
     <content type="html">&lt;p&gt;92 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34382976&quot;&gt;59 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34382976&quot;&gt;59 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">112 &amp;#8211; Mold &amp;#8211; A really fast linker</title>
+    <title type="html">113 &amp;#8211; Mold &amp;#8211; A really fast linker</title>
     <id>https://news.ycombinator.com/item?id=34382908</id>
     <updated>2023-01-14T18:58:37Z</updated>
     <published>2023-01-14T18:58:37Z</published>
@@ -315,28 +337,6 @@
     <author>
       <name>netr0ute</name>
     </author>
-    <content type="html">&lt;p&gt;112 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34382908&quot;&gt;53 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34382908&quot;&gt;53 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">118 &amp;#8211; Homelab analog telephone exchange</title>
-    <id>https://news.ycombinator.com/item?id=34382751</id>
-    <updated>2023-01-14T18:42:52Z</updated>
-    <published>2023-01-14T18:42:52Z</published>
-    <link href="https://skagmo.com/page.php?p=projects/42_pbx" />
-    <author>
-      <name>zdw</name>
-    </author>
-    <content type="html">&lt;p&gt;118 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34382751&quot;&gt;20 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34382751&quot;&gt;20 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">172 &amp;#8211; Counting the transistors in the 8086 processor: it's harder than you might think</title>
-    <id>https://news.ycombinator.com/item?id=34382744</id>
-    <updated>2023-01-14T18:42:00Z</updated>
-    <published>2023-01-14T18:42:00Z</published>
-    <link href="http://www.righto.com/2023/01/counting-transistors-in-8086-processor.html" />
-    <author>
-      <name>zdw</name>
-    </author>
-    <content type="html">&lt;p&gt;172 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34382744&quot;&gt;39 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34382744&quot;&gt;39 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;113 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=34382908&quot;&gt;53 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=34382908&quot;&gt;53 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
