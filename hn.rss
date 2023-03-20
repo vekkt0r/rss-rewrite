@@ -2,13 +2,35 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="html">score&gt;85 &amp;#8211; hnapp</title>
   <id>http://hnapp.com/rss?q=score%3E85</id>
-  <updated>2023-03-20T14:40:59Z</updated>
+  <updated>2023-03-20T15:57:45Z</updated>
   <link href="http://hnapp.com/?q=score%3E85" />
   <link href="http://hnapp.com/rss?q=score%3E85" rel="self" />
   <author>
     <name>via hnapp</name>
   </author>
   <generator uri="http://hnapp.com">hnapp</generator>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">154 &amp;#8211; Supreme Court asked to strike down immunity for police who brutally beat student</title>
+    <id>https://news.ycombinator.com/item?id=35233500</id>
+    <updated>2023-03-20T15:57:45Z</updated>
+    <published>2023-03-20T15:57:45Z</published>
+    <link href="https://ij.org/press-release/supreme-court-asked-to-strike-down-immunity-for-police-task-force-officers-who-brutally-beat-innocent-college-student/" />
+    <author>
+      <name>stefan_</name>
+    </author>
+    <content type="html">&lt;p&gt;154 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35233500&quot;&gt;117 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35233500&quot;&gt;117 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">113 &amp;#8211; Paving the Road to Vulkan on Asahi Linux</title>
+    <id>https://news.ycombinator.com/item?id=35233479</id>
+    <updated>2023-03-20T15:56:12Z</updated>
+    <published>2023-03-20T15:56:12Z</published>
+    <link href="https://asahilinux.org/2023/03/road-to-vulkan/" />
+    <author>
+      <name>jiripospisil</name>
+    </author>
+    <content type="html">&lt;p&gt;113 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35233479&quot;&gt;9 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35233479&quot;&gt;9 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">93 &amp;#8211; Amazon Cutting Another 9k Jobs</title>
     <id>https://news.ycombinator.com/item?id=35232178</id>
@@ -18,7 +40,7 @@
     <author>
       <name>jmsflknr</name>
     </author>
-    <content type="html">&lt;p&gt;93 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35232178&quot;&gt;87 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35232178&quot;&gt;87 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;93 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35232178&quot;&gt;102 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35232178&quot;&gt;102 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">228 &amp;#8211; Amazon to lay off 9,000 more workers after earlier cuts</title>
@@ -29,7 +51,29 @@
     <author>
       <name>mfiguiere</name>
     </author>
-    <content type="html">&lt;p&gt;228 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35232150&quot;&gt;164 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35232150&quot;&gt;164 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;228 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35232150&quot;&gt;224 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35232150&quot;&gt;224 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">103 &amp;#8211; Gitea 1.19</title>
+    <id>https://news.ycombinator.com/item?id=35231980</id>
+    <updated>2023-03-20T14:28:20Z</updated>
+    <published>2023-03-20T14:28:20Z</published>
+    <link href="https://blog.gitea.io/2023/03/gitea-1.19.0-is-released/" />
+    <author>
+      <name>silverwind</name>
+    </author>
+    <content type="html">&lt;p&gt;103 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35231980&quot;&gt;58 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35231980&quot;&gt;58 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">86 &amp;#8211; When can two TCP sockets share a local address?</title>
+    <id>https://news.ycombinator.com/item?id=35231276</id>
+    <updated>2023-03-20T13:35:21Z</updated>
+    <published>2023-03-20T13:35:21Z</published>
+    <link href="https://blog.cloudflare.com/the-quantum-state-of-a-tcp-port/" />
+    <author>
+      <name>jgrahamc</name>
+    </author>
+    <content type="html">&lt;p&gt;86 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35231276&quot;&gt;12 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35231276&quot;&gt;12 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">344 &amp;#8211; Cyclists Now Outnumber Motorists in City of London</title>
@@ -40,10 +84,10 @@
     <author>
       <name>gcoleman</name>
     </author>
-    <content type="html">&lt;p&gt;344 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35231111&quot;&gt;415 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35231111&quot;&gt;415 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;344 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35231111&quot;&gt;506 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35231111&quot;&gt;506 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">99 &amp;#8211; IPCC climate crisis report delivers &amp;#8216;final warning on 1.5C&amp;#8217;</title>
+    <title type="html">101 &amp;#8211; IPCC climate crisis report delivers &amp;#8216;final warning on 1.5C&amp;#8217;</title>
     <id>https://news.ycombinator.com/item?id=35231012</id>
     <updated>2023-03-20T13:14:40Z</updated>
     <published>2023-03-20T13:14:40Z</published>
@@ -51,10 +95,10 @@
     <author>
       <name>m1</name>
     </author>
-    <content type="html">&lt;p&gt;99 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35231012&quot;&gt;127 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35231012&quot;&gt;127 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;101 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=35231012&quot;&gt;136 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35231012&quot;&gt;136 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">103 &amp;#8211; Zippyshare Quits After 17 Years, 45M Visits per Month Makes No Money</title>
+    <title type="html">186 &amp;#8211; Zippyshare quits after 17 years, 45M visits per month makes no money</title>
     <id>https://news.ycombinator.com/item?id=35230740</id>
     <updated>2023-03-20T12:50:08Z</updated>
     <published>2023-03-20T12:50:08Z</published>
@@ -62,10 +106,10 @@
     <author>
       <name>HieronymusBosch</name>
     </author>
-    <content type="html">&lt;p&gt;103 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35230740&quot;&gt;138 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35230740&quot;&gt;138 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;186 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35230740&quot;&gt;168 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35230740&quot;&gt;168 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">140 &amp;#8211; Flow-Based Programming, a way for AI and humans to develop together</title>
+    <title type="html">145 &amp;#8211; Flow-Based Programming, a way for AI and humans to develop together</title>
     <id>https://news.ycombinator.com/item?id=35229222</id>
     <updated>2023-03-20T09:39:46Z</updated>
     <published>2023-03-20T09:39:46Z</published>
@@ -73,10 +117,10 @@
     <author>
       <name>bergie</name>
     </author>
-    <content type="html">&lt;p&gt;140 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35229222&quot;&gt;99 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35229222&quot;&gt;99 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;145 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35229222&quot;&gt;102 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35229222&quot;&gt;102 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">233 &amp;#8211; Ask HN: Where can I find a primer on how computers boot?</title>
+    <title type="html">256 &amp;#8211; Ask HN: Where can I find a primer on how computers boot?</title>
     <id>https://news.ycombinator.com/item?id=35229045</id>
     <updated>2023-03-20T09:15:18Z</updated>
     <published>2023-03-20T09:15:18Z</published>
@@ -84,10 +128,10 @@
     <author>
       <name>mog_dev</name>
     </author>
-    <content type="html">&lt;p&gt;233 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35229045&quot;&gt;59 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35229045&quot;&gt;59 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;256 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35229045&quot;&gt;64 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35229045&quot;&gt;64 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">94 &amp;#8211; Command Line One-Liners</title>
+    <title type="html">105 &amp;#8211; Command Line One-Liners</title>
     <id>https://news.ycombinator.com/item?id=35228884</id>
     <updated>2023-03-20T08:52:46Z</updated>
     <published>2023-03-20T08:52:46Z</published>
@@ -95,7 +139,7 @@
     <author>
       <name>aphrax</name>
     </author>
-    <content type="html">&lt;p&gt;94 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35228884&quot;&gt;15 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35228884&quot;&gt;15 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;105 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35228884&quot;&gt;17 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35228884&quot;&gt;17 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">176 &amp;#8211; Curl 8.0.0</title>
@@ -117,10 +161,10 @@
     <author>
       <name>doener</name>
     </author>
-    <content type="html">&lt;p&gt;106 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35228219&quot;&gt;150 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35228219&quot;&gt;150 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;106 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35228219&quot;&gt;153 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35228219&quot;&gt;153 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">235 &amp;#8211; TinyVG &amp;#8211; an alternative binary encoded vector graphics format</title>
+    <title type="html">251 &amp;#8211; TinyVG &amp;#8211; an alternative binary encoded vector graphics format</title>
     <id>https://news.ycombinator.com/item?id=35227635</id>
     <updated>2023-03-20T05:27:07Z</updated>
     <published>2023-03-20T05:27:07Z</published>
@@ -128,10 +172,10 @@
     <author>
       <name>tsujp</name>
     </author>
-    <content type="html">&lt;p&gt;235 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35227635&quot;&gt;89 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35227635&quot;&gt;89 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;251 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=35227635&quot;&gt;94 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35227635&quot;&gt;94 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">170 &amp;#8211; Previous: A NeXT Computer Emulator</title>
+    <title type="html">180 &amp;#8211; Previous: A NeXT Computer Emulator</title>
     <id>https://news.ycombinator.com/item?id=35227600</id>
     <updated>2023-03-20T05:21:04Z</updated>
     <published>2023-03-20T05:21:04Z</published>
@@ -139,10 +183,10 @@
     <author>
       <name>ecliptik</name>
     </author>
-    <content type="html">&lt;p&gt;170 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35227600&quot;&gt;69 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35227600&quot;&gt;69 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;180 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35227600&quot;&gt;74 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35227600&quot;&gt;74 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">103 &amp;#8211; Prompt Engineering: Steer a large pretrained language model to do what you want</title>
+    <title type="html">125 &amp;#8211; Prompt Engineering: Steer a large pretrained language model to do what you want</title>
     <id>https://news.ycombinator.com/item?id=35227358</id>
     <updated>2023-03-20T04:39:12Z</updated>
     <published>2023-03-20T04:39:12Z</published>
@@ -150,7 +194,7 @@
     <author>
       <name>sebg</name>
     </author>
-    <content type="html">&lt;p&gt;103 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35227358&quot;&gt;31 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35227358&quot;&gt;31 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;125 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35227358&quot;&gt;31 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35227358&quot;&gt;31 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">245 &amp;#8211; Meta Layoffs</title>
@@ -161,7 +205,7 @@
     <author>
       <name>jez</name>
     </author>
-    <content type="html">&lt;p&gt;245 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35227209&quot;&gt;245 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35227209&quot;&gt;245 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;245 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35227209&quot;&gt;249 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35227209&quot;&gt;249 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">130 &amp;#8211; Ask HN: Why do many CS graduates lack foundational knowledge?</title>
@@ -172,10 +216,10 @@
     <author>
       <name>platzhirsch</name>
     </author>
-    <content type="html">&lt;p&gt;130 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35226887&quot;&gt;563 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35226887&quot;&gt;563 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;130 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35226887&quot;&gt;594 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35226887&quot;&gt;594 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">154 &amp;#8211; Who becomes an entrepreneur? Insights from research studies</title>
+    <title type="html">157 &amp;#8211; Who becomes an entrepreneur? Insights from research studies</title>
     <id>https://news.ycombinator.com/item?id=35226420</id>
     <updated>2023-03-20T02:12:22Z</updated>
     <published>2023-03-20T02:12:22Z</published>
@@ -183,10 +227,10 @@
     <author>
       <name>bhavansri</name>
     </author>
-    <content type="html">&lt;p&gt;154 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35226420&quot;&gt;87 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35226420&quot;&gt;87 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;157 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35226420&quot;&gt;92 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35226420&quot;&gt;92 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">142 &amp;#8211; GPTs Are GPTs: An Early Look at the Labor Market Impact Potential of LLMs</title>
+    <title type="html">147 &amp;#8211; GPTs Are GPTs: An Early Look at the Labor Market Impact Potential of LLMs</title>
     <id>https://news.ycombinator.com/item?id=35226364</id>
     <updated>2023-03-20T02:04:37Z</updated>
     <published>2023-03-20T02:04:37Z</published>
@@ -194,10 +238,10 @@
     <author>
       <name>ericzawo</name>
     </author>
-    <content type="html">&lt;p&gt;142 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35226364&quot;&gt;199 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35226364&quot;&gt;199 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;147 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35226364&quot;&gt;206 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35226364&quot;&gt;206 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">281 &amp;#8211; Altstore: Home for apps that push the boundaries of iOS</title>
+    <title type="html">297 &amp;#8211; Altstore: Home for apps that push the boundaries of iOS</title>
     <id>https://news.ycombinator.com/item?id=35226197</id>
     <updated>2023-03-20T01:41:37Z</updated>
     <published>2023-03-20T01:41:37Z</published>
@@ -205,10 +249,10 @@
     <author>
       <name>behnamoh</name>
     </author>
-    <content type="html">&lt;p&gt;281 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=35226197&quot;&gt;203 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35226197&quot;&gt;203 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;297 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35226197&quot;&gt;213 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35226197&quot;&gt;213 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">366 &amp;#8211; Twenty-five years of curl</title>
+    <title type="html">375 &amp;#8211; Twenty-five years of curl</title>
     <id>https://news.ycombinator.com/item?id=35225946</id>
     <updated>2023-03-20T01:13:26Z</updated>
     <published>2023-03-20T01:13:26Z</published>
@@ -216,10 +260,10 @@
     <author>
       <name>mfrw</name>
     </author>
-    <content type="html">&lt;p&gt;366 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35225946&quot;&gt;51 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35225946&quot;&gt;51 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;375 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35225946&quot;&gt;55 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35225946&quot;&gt;55 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">182 &amp;#8211; Oakland's non-profit video game museum is back, and thriving</title>
+    <title type="html">183 &amp;#8211; Oakland's non-profit video game museum is back, and thriving</title>
     <id>https://news.ycombinator.com/item?id=35225319</id>
     <updated>2023-03-20T00:11:26Z</updated>
     <published>2023-03-20T00:11:26Z</published>
@@ -227,7 +271,7 @@
     <author>
       <name>VonGuard</name>
     </author>
-    <content type="html">&lt;p&gt;182 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35225319&quot;&gt;21 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35225319&quot;&gt;21 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;183 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35225319&quot;&gt;22 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35225319&quot;&gt;22 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">170 &amp;#8211; Federal Reserve lent $300B in emergency funds to banks in the past week</title>
@@ -238,10 +282,10 @@
     <author>
       <name>halabarouma</name>
     </author>
-    <content type="html">&lt;p&gt;170 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35225146&quot;&gt;236 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35225146&quot;&gt;236 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;170 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35225146&quot;&gt;238 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35225146&quot;&gt;238 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">161 &amp;#8211; Gallery of Minimal Design Websites</title>
+    <title type="html">166 &amp;#8211; Gallery of Minimal Design Websites</title>
     <id>https://news.ycombinator.com/item?id=35225097</id>
     <updated>2023-03-19T23:46:50Z</updated>
     <published>2023-03-19T23:46:50Z</published>
@@ -249,7 +293,7 @@
     <author>
       <name>catchmeifyoucan</name>
     </author>
-    <content type="html">&lt;p&gt;161 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=35225097&quot;&gt;50 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35225097&quot;&gt;50 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;166 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35225097&quot;&gt;51 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35225097&quot;&gt;51 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">175 &amp;#8211; Banshees of Inisherin: The Game</title>
@@ -260,10 +304,10 @@
     <author>
       <name>fancyfish</name>
     </author>
-    <content type="html">&lt;p&gt;175 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35224999&quot;&gt;120 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35224999&quot;&gt;120 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;175 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35224999&quot;&gt;121 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35224999&quot;&gt;121 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">100 &amp;#8211; Black widows are losing to brown widows in the fight for attics and garages</title>
+    <title type="html">101 &amp;#8211; Black widows are losing to brown widows in the fight for attics and garages</title>
     <id>https://news.ycombinator.com/item?id=35224772</id>
     <updated>2023-03-19T23:11:58Z</updated>
     <published>2023-03-19T23:11:58Z</published>
@@ -271,10 +315,10 @@
     <author>
       <name>jgwil2</name>
     </author>
-    <content type="html">&lt;p&gt;100 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35224772&quot;&gt;152 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35224772&quot;&gt;152 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;101 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=35224772&quot;&gt;154 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35224772&quot;&gt;154 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">399 &amp;#8211; Anti-recruiter prompt injection attack in LinkedIn profile</title>
+    <title type="html">404 &amp;#8211; Anti-recruiter prompt injection attack in LinkedIn profile</title>
     <id>https://news.ycombinator.com/item?id=35224666</id>
     <updated>2023-03-19T23:02:20Z</updated>
     <published>2023-03-19T23:02:20Z</published>
@@ -282,7 +326,7 @@
     <author>
       <name>tagawa</name>
     </author>
-    <content type="html">&lt;p&gt;399 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35224666&quot;&gt;119 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35224666&quot;&gt;119 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;404 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35224666&quot;&gt;119 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35224666&quot;&gt;119 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">440 &amp;#8211; Mastodon hit 10M users</title>
@@ -293,50 +337,6 @@
     <author>
       <name>xena</name>
     </author>
-    <content type="html">&lt;p&gt;440 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35224356&quot;&gt;349 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35224356&quot;&gt;349 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">222 &amp;#8211; Glaze: Protecting artists from style mimicry</title>
-    <id>https://news.ycombinator.com/item?id=35224219</id>
-    <updated>2023-03-19T22:12:27Z</updated>
-    <published>2023-03-19T22:12:27Z</published>
-    <link href="https://glaze.cs.uchicago.edu/" />
-    <author>
-      <name>jurynulifcation</name>
-    </author>
-    <content type="html">&lt;p&gt;222 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35224219&quot;&gt;278 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35224219&quot;&gt;278 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">300 &amp;#8211; Epic Games, others accuse Sundar Pichai of violating retention obligations</title>
-    <id>https://news.ycombinator.com/item?id=35224167</id>
-    <updated>2023-03-19T22:04:46Z</updated>
-    <published>2023-03-19T22:04:46Z</published>
-    <link href="http://www.fosspatents.com/2023/03/us-states-epic-games-others-accuse.html" />
-    <author>
-      <name>connor11528</name>
-    </author>
-    <content type="html">&lt;p&gt;300 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35224167&quot;&gt;187 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35224167&quot;&gt;187 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">234 &amp;#8211; My new hobby: finding public domain images that Getty sells for $500</title>
-    <id>https://news.ycombinator.com/item?id=35223950</id>
-    <updated>2023-03-19T21:40:01Z</updated>
-    <published>2023-03-19T21:40:01Z</published>
-    <link href="https://twitter.com/doctorow/status/1637443442921066497" />
-    <author>
-      <name>app4soft</name>
-    </author>
-    <content type="html">&lt;p&gt;234 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35223950&quot;&gt;50 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35223950&quot;&gt;50 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">262 &amp;#8211; Show HN: Chatblade &amp;#8211; A CLI Swiss Army Knife for ChatGPT</title>
-    <id>https://news.ycombinator.com/item?id=35223759</id>
-    <updated>2023-03-19T21:18:49Z</updated>
-    <published>2023-03-19T21:18:49Z</published>
-    <link href="https://github.com/npiv/chatblade" />
-    <author>
-      <name>ramblerman</name>
-    </author>
-    <content type="html">&lt;p&gt;262 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35223759&quot;&gt;54 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35223759&quot;&gt;54 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;440 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=35224356&quot;&gt;361 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=35224356&quot;&gt;361 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
