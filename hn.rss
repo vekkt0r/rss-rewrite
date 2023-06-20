@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="html">score&gt;85 &amp;#8211; hnapp</title>
   <id>http://hnapp.com/rss?q=score%3E85</id>
-  <updated>2023-06-20T17:30:50Z</updated>
+  <updated>2023-06-20T18:49:30Z</updated>
   <link href="http://hnapp.com/?q=score%3E85" />
   <link href="http://hnapp.com/rss?q=score%3E85" rel="self" />
   <author>
@@ -10,7 +10,18 @@
   </author>
   <generator uri="http://hnapp.com">hnapp</generator>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">132 &amp;#8211; Codespaces but open-source, client-only, and unopinionated</title>
+    <title type="html">123 &amp;#8211; My total comp for creating GitHub Copilot</title>
+    <id>https://news.ycombinator.com/item?id=36408700</id>
+    <updated>2023-06-20T18:49:30Z</updated>
+    <published>2023-06-20T18:49:30Z</published>
+    <link href="https://twitter.com/alexgraveley/status/1671213996735594503" />
+    <author>
+      <name>FlamingMoe</name>
+    </author>
+    <content type="html">&lt;p&gt;123 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36408700&quot;&gt;88 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36408700&quot;&gt;88 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">199 &amp;#8211; Codespaces but open-source, client-only, and unopinionated</title>
     <id>https://news.ycombinator.com/item?id=36407477</id>
     <updated>2023-06-20T17:30:50Z</updated>
     <published>2023-06-20T17:30:50Z</published>
@@ -18,10 +29,10 @@
     <author>
       <name>el_hacker</name>
     </author>
-    <content type="html">&lt;p&gt;132 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36407477&quot;&gt;29 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36407477&quot;&gt;29 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;199 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36407477&quot;&gt;42 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36407477&quot;&gt;42 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">93 &amp;#8211; Gitlab has introduced a five-user limit for free groups</title>
+    <title type="html">122 &amp;#8211; Gitlab has introduced a five-user limit for free groups</title>
     <id>https://news.ycombinator.com/item?id=36407245</id>
     <updated>2023-06-20T17:14:32Z</updated>
     <published>2023-06-20T17:14:32Z</published>
@@ -29,10 +40,21 @@
     <author>
       <name>MattIPv4</name>
     </author>
-    <content type="html">&lt;p&gt;93 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36407245&quot;&gt;105 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36407245&quot;&gt;105 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;122 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36407245&quot;&gt;120 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36407245&quot;&gt;120 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">161 &amp;#8211; Minimal downtime major PostgreSQL version upgrades with pg_easy_replicate</title>
+    <title type="html">145 &amp;#8211; 3 Men Convicted of Harassing Family on Behalf of China&amp;#8217;s Government</title>
+    <id>https://news.ycombinator.com/item?id=36407208</id>
+    <updated>2023-06-20T17:12:03Z</updated>
+    <published>2023-06-20T17:12:03Z</published>
+    <link href="https://www.nytimes.com/2023/06/20/nyregion/verdict-china-spying-trial.html" />
+    <author>
+      <name>jbegley</name>
+    </author>
+    <content type="html">&lt;p&gt;145 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36407208&quot;&gt;98 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36407208&quot;&gt;98 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">187 &amp;#8211; Minimal downtime major PostgreSQL version upgrades with pg_easy_replicate</title>
     <id>https://news.ycombinator.com/item?id=36405761</id>
     <updated>2023-06-20T15:46:23Z</updated>
     <published>2023-06-20T15:46:23Z</published>
@@ -40,10 +62,10 @@
     <author>
       <name>shayonj</name>
     </author>
-    <content type="html">&lt;p&gt;161 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=36405761&quot;&gt;29 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36405761&quot;&gt;29 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;187 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36405761&quot;&gt;31 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36405761&quot;&gt;31 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">149 &amp;#8211; Gannett CEO: Here's why we are suing Google for deceptive business practices</title>
+    <title type="html">150 &amp;#8211; Gannett CEO: Here's why we are suing Google for deceptive business practices</title>
     <id>https://news.ycombinator.com/item?id=36405024</id>
     <updated>2023-06-20T14:59:14Z</updated>
     <published>2023-06-20T14:59:14Z</published>
@@ -51,10 +73,10 @@
     <author>
       <name>danso</name>
     </author>
-    <content type="html">&lt;p&gt;149 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36405024&quot;&gt;99 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36405024&quot;&gt;99 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;150 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36405024&quot;&gt;102 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36405024&quot;&gt;102 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">92 &amp;#8211; Undb &amp;#8211; Private first, unified, self-hosted no code database</title>
+    <title type="html">109 &amp;#8211; Undb &amp;#8211; Private first, unified, self-hosted no code database</title>
     <id>https://news.ycombinator.com/item?id=36404622</id>
     <updated>2023-06-20T14:34:13Z</updated>
     <published>2023-06-20T14:34:13Z</published>
@@ -62,7 +84,7 @@
     <author>
       <name>nichenqin</name>
     </author>
-    <content type="html">&lt;p&gt;92 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36404622&quot;&gt;25 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36404622&quot;&gt;25 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;109 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36404622&quot;&gt;28 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36404622&quot;&gt;28 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">363 &amp;#8211; Tell HN: Stripe killed my music locker service, so I'm open sourcing it</title>
@@ -73,10 +95,10 @@
     <author>
       <name>grose</name>
     </author>
-    <content type="html">&lt;p&gt;363 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36403607&quot;&gt;148 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36403607&quot;&gt;148 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;363 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36403607&quot;&gt;149 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36403607&quot;&gt;149 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">150 &amp;#8211; Lemmy stats (users, posts, nodes, comments)</title>
+    <title type="html">163 &amp;#8211; Lemmy stats (users, posts, nodes, comments)</title>
     <id>https://news.ycombinator.com/item?id=36403430</id>
     <updated>2023-06-20T13:09:06Z</updated>
     <published>2023-06-20T13:09:06Z</published>
@@ -84,10 +106,10 @@
     <author>
       <name>Paul-Craft</name>
     </author>
-    <content type="html">&lt;p&gt;150 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36403430&quot;&gt;97 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36403430&quot;&gt;97 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;163 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36403430&quot;&gt;99 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36403430&quot;&gt;99 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">141 &amp;#8211; Why Tcl?</title>
+    <title type="html">156 &amp;#8211; Why Tcl?</title>
     <id>https://news.ycombinator.com/item?id=36403355</id>
     <updated>2023-06-20T13:01:31Z</updated>
     <published>2023-06-20T13:01:31Z</published>
@@ -95,10 +117,10 @@
     <author>
       <name>elvis70</name>
     </author>
-    <content type="html">&lt;p&gt;141 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=36403355&quot;&gt;107 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36403355&quot;&gt;107 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;156 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36403355&quot;&gt;113 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36403355&quot;&gt;113 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">105 &amp;#8211; Benzene Exposure Alters Endocrine Activity</title>
+    <title type="html">131 &amp;#8211; Benzene Exposure Alters Endocrine Activity</title>
     <id>https://news.ycombinator.com/item?id=36403345</id>
     <updated>2023-06-20T12:59:57Z</updated>
     <published>2023-06-20T12:59:57Z</published>
@@ -106,7 +128,7 @@
     <author>
       <name>Beefin</name>
     </author>
-    <content type="html">&lt;p&gt;105 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36403345&quot;&gt;76 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36403345&quot;&gt;76 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;131 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=36403345&quot;&gt;100 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36403345&quot;&gt;100 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">387 &amp;#8211; Loneliness is stronger when not alone</title>
@@ -117,10 +139,10 @@
     <author>
       <name>hirundo</name>
     </author>
-    <content type="html">&lt;p&gt;387 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36403280&quot;&gt;329 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36403280&quot;&gt;329 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;387 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36403280&quot;&gt;361 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36403280&quot;&gt;361 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">88 &amp;#8211; Representing Enums in PostgreSQL</title>
+    <title type="html">96 &amp;#8211; Representing Enums in PostgreSQL</title>
     <id>https://news.ycombinator.com/item?id=36403087</id>
     <updated>2023-06-20T12:31:44Z</updated>
     <published>2023-06-20T12:31:44Z</published>
@@ -128,10 +150,10 @@
     <author>
       <name>wojcikstefan</name>
     </author>
-    <content type="html">&lt;p&gt;88 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36403087&quot;&gt;51 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36403087&quot;&gt;51 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;96 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36403087&quot;&gt;53 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36403087&quot;&gt;53 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">95 &amp;#8211; Square where Julius Caesar was killed opens to the public in Rome</title>
+    <title type="html">96 &amp;#8211; Square where Julius Caesar was killed opens to the public in Rome</title>
     <id>https://news.ycombinator.com/item?id=36402968</id>
     <updated>2023-06-20T12:18:27Z</updated>
     <published>2023-06-20T12:18:27Z</published>
@@ -139,10 +161,10 @@
     <author>
       <name>DamonHD</name>
     </author>
-    <content type="html">&lt;p&gt;95 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36402968&quot;&gt;98 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36402968&quot;&gt;98 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;96 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36402968&quot;&gt;101 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36402968&quot;&gt;101 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">230 &amp;#8211; Mullvad Leta: A search engine used in the Mullvad Browser</title>
+    <title type="html">241 &amp;#8211; Mullvad Leta: A search engine used in the Mullvad Browser</title>
     <id>https://news.ycombinator.com/item?id=36402162</id>
     <updated>2023-06-20T10:48:39Z</updated>
     <published>2023-06-20T10:48:39Z</published>
@@ -150,10 +172,10 @@
     <author>
       <name>pnt12</name>
     </author>
-    <content type="html">&lt;p&gt;230 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36402162&quot;&gt;106 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36402162&quot;&gt;106 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;241 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=36402162&quot;&gt;109 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36402162&quot;&gt;109 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">126 &amp;#8211; Life before cellphones: The after-work activities of young people in 2002</title>
+    <title type="html">130 &amp;#8211; Life before cellphones: The after-work activities of young people in 2002</title>
     <id>https://news.ycombinator.com/item?id=36402076</id>
     <updated>2023-06-20T10:37:55Z</updated>
     <published>2023-06-20T10:37:55Z</published>
@@ -161,10 +183,10 @@
     <author>
       <name>prawn</name>
     </author>
-    <content type="html">&lt;p&gt;126 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36402076&quot;&gt;117 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36402076&quot;&gt;117 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;130 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36402076&quot;&gt;130 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36402076&quot;&gt;130 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">393 &amp;#8211; Sub.Rehab &amp;#8211; See where Reddit communities have relocated</title>
+    <title type="html">414 &amp;#8211; Sub.Rehab &amp;#8211; See where Reddit communities have relocated</title>
     <id>https://news.ycombinator.com/item?id=36401999</id>
     <updated>2023-06-20T10:26:37Z</updated>
     <published>2023-06-20T10:26:37Z</published>
@@ -172,10 +194,10 @@
     <author>
       <name>thunderbong</name>
     </author>
-    <content type="html">&lt;p&gt;393 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36401999&quot;&gt;245 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36401999&quot;&gt;245 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;414 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36401999&quot;&gt;254 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36401999&quot;&gt;254 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">139 &amp;#8211; Cities turn to &amp;#8216;extreme&amp;#8217; water recycling</title>
+    <title type="html">151 &amp;#8211; Cities turn to &amp;#8216;extreme&amp;#8217; water recycling</title>
     <id>https://news.ycombinator.com/item?id=36401863</id>
     <updated>2023-06-20T10:05:54Z</updated>
     <published>2023-06-20T10:05:54Z</published>
@@ -183,10 +205,10 @@
     <author>
       <name>CoBE10</name>
     </author>
-    <content type="html">&lt;p&gt;139 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36401863&quot;&gt;258 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36401863&quot;&gt;258 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;151 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=36401863&quot;&gt;275 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36401863&quot;&gt;275 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">299 &amp;#8211; Style your RSS feed</title>
+    <title type="html">318 &amp;#8211; Style your RSS feed</title>
     <id>https://news.ycombinator.com/item?id=36401854</id>
     <updated>2023-06-20T10:04:29Z</updated>
     <published>2023-06-20T10:04:29Z</published>
@@ -194,10 +216,10 @@
     <author>
       <name>captn3m0</name>
     </author>
-    <content type="html">&lt;p&gt;299 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36401854&quot;&gt;112 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36401854&quot;&gt;112 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;318 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36401854&quot;&gt;117 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36401854&quot;&gt;117 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">206 &amp;#8211; Hashing</title>
+    <title type="html">223 &amp;#8211; Hashing</title>
     <id>https://news.ycombinator.com/item?id=36401747</id>
     <updated>2023-06-20T09:48:26Z</updated>
     <published>2023-06-20T09:48:26Z</published>
@@ -205,10 +227,10 @@
     <author>
       <name>signa11</name>
     </author>
-    <content type="html">&lt;p&gt;206 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36401747&quot;&gt;47 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36401747&quot;&gt;47 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;223 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36401747&quot;&gt;47 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36401747&quot;&gt;47 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">188 &amp;#8211; I made a smooth shadows generator</title>
+    <title type="html">201 &amp;#8211; I made a smooth shadows generator</title>
     <id>https://news.ycombinator.com/item?id=36401676</id>
     <updated>2023-06-20T09:38:31Z</updated>
     <published>2023-06-20T09:38:31Z</published>
@@ -216,10 +238,10 @@
     <author>
       <name>marttilaine</name>
     </author>
-    <content type="html">&lt;p&gt;188 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36401676&quot;&gt;42 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36401676&quot;&gt;42 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;201 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=36401676&quot;&gt;44 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36401676&quot;&gt;44 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">124 &amp;#8211; OpenBSD: Shutdown/reboot now require membership of group _shutdown</title>
+    <title type="html">127 &amp;#8211; OpenBSD: Shutdown/reboot now require membership of group _shutdown</title>
     <id>https://news.ycombinator.com/item?id=36400524</id>
     <updated>2023-06-20T06:43:32Z</updated>
     <published>2023-06-20T06:43:32Z</published>
@@ -227,7 +249,7 @@
     <author>
       <name>peter_hansteen</name>
     </author>
-    <content type="html">&lt;p&gt;124 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36400524&quot;&gt;101 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36400524&quot;&gt;101 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;127 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36400524&quot;&gt;104 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36400524&quot;&gt;104 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">88 &amp;#8211; Adobe&amp;#8217;s $20B deal to acquire Figma under threat from EU investigation</title>
@@ -238,7 +260,7 @@
     <author>
       <name>marban</name>
     </author>
-    <content type="html">&lt;p&gt;88 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36400368&quot;&gt;66 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36400368&quot;&gt;66 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;88 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36400368&quot;&gt;67 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36400368&quot;&gt;67 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">162 &amp;#8211; ChatGPT: Fear Litany</title>
@@ -249,7 +271,7 @@
     <author>
       <name>Cloudef</name>
     </author>
-    <content type="html">&lt;p&gt;162 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36400053&quot;&gt;160 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36400053&quot;&gt;160 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;162 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36400053&quot;&gt;165 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36400053&quot;&gt;165 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">199 &amp;#8211; Removed as moderator of /r/Celebrities after over 14 years</title>
@@ -260,10 +282,10 @@
     <author>
       <name>graeme</name>
     </author>
-    <content type="html">&lt;p&gt;199 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36399620&quot;&gt;152 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36399620&quot;&gt;152 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;199 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36399620&quot;&gt;154 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36399620&quot;&gt;154 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">378 &amp;#8211; A daytime nap is good for the brain</title>
+    <title type="html">386 &amp;#8211; A daytime nap is good for the brain</title>
     <id>https://news.ycombinator.com/item?id=36399503</id>
     <updated>2023-06-20T03:53:09Z</updated>
     <published>2023-06-20T03:53:09Z</published>
@@ -271,7 +293,7 @@
     <author>
       <name>andsoitis</name>
     </author>
-    <content type="html">&lt;p&gt;378 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36399503&quot;&gt;200 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36399503&quot;&gt;200 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;386 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36399503&quot;&gt;203 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36399503&quot;&gt;203 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">279 &amp;#8211; Google warns its own employees: Do not use code generated by Bard</title>
@@ -282,10 +304,10 @@
     <author>
       <name>Brajeshwar</name>
     </author>
-    <content type="html">&lt;p&gt;279 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36399021&quot;&gt;153 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36399021&quot;&gt;153 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;279 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36399021&quot;&gt;154 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36399021&quot;&gt;154 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">211 &amp;#8211; LCD TVs won&amp;#8217;t see any further development</title>
+    <title type="html">212 &amp;#8211; LCD TVs won&amp;#8217;t see any further development</title>
     <id>https://news.ycombinator.com/item?id=36398596</id>
     <updated>2023-06-20T01:21:23Z</updated>
     <published>2023-06-20T01:21:23Z</published>
@@ -293,7 +315,7 @@
     <author>
       <name>belltaco</name>
     </author>
-    <content type="html">&lt;p&gt;211 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=36398596&quot;&gt;452 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36398596&quot;&gt;452 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;212 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36398596&quot;&gt;457 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36398596&quot;&gt;457 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">132 &amp;#8211; OpenWrt Project: a Linux operating system targeting embedded devices</title>
@@ -315,28 +337,6 @@
     <author>
       <name>simonpure</name>
     </author>
-    <content type="html">&lt;p&gt;163 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36398292&quot;&gt;48 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36398292&quot;&gt;48 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">204 &amp;#8211; Cloud Appreciation Society</title>
-    <id>https://news.ycombinator.com/item?id=36398081</id>
-    <updated>2023-06-20T00:10:55Z</updated>
-    <published>2023-06-20T00:10:55Z</published>
-    <link href="https://cloudappreciationsociety.org/" />
-    <author>
-      <name>surprisetalk</name>
-    </author>
-    <content type="html">&lt;p&gt;204 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36398081&quot;&gt;49 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36398081&quot;&gt;49 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">103 &amp;#8211; SFO United staff accused of stealing marijuana from checked bags</title>
-    <id>https://news.ycombinator.com/item?id=36397785</id>
-    <updated>2023-06-19T23:34:10Z</updated>
-    <published>2023-06-19T23:34:10Z</published>
-    <link href="https://sfstandard.com/criminal-justice/sfo-united-staff-accused-of-stealing-marijuana-from-checked-bags/" />
-    <author>
-      <name>Brajeshwar</name>
-    </author>
-    <content type="html">&lt;p&gt;103 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36397785&quot;&gt;79 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36397785&quot;&gt;79 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;163 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=36398292&quot;&gt;54 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.herokuapp.com/item?id=36398292&quot;&gt;54 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
