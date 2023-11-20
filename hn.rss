@@ -2,13 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="html">score&gt;85 &amp;#8211; hnapp</title>
   <id>http://hnapp.com/rss?q=score%3E85</id>
-  <updated>2023-11-20T19:11:21Z</updated>
+  <updated>2023-11-20T21:16:35Z</updated>
   <link href="http://hnapp.com/?q=score%3E85" />
   <link href="http://hnapp.com/rss?q=score%3E85" rel="self" />
   <author>
     <name>via hnapp</name>
   </author>
   <generator uri="http://hnapp.com">hnapp</generator>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">93 &amp;#8211; FreeBSD 14.0-Release</title>
+    <id>https://news.ycombinator.com/item?id=38354918</id>
+    <updated>2023-11-20T21:16:35Z</updated>
+    <published>2023-11-20T21:16:35Z</published>
+    <link href="https://www.freebsd.org/releases/14.0R/announce/" />
+    <author>
+      <name>cperciva</name>
+    </author>
+    <content type="html">&lt;p&gt;93 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38354918&quot;&gt;39 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38354918&quot;&gt;39 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">95 &amp;#8211; Why TSA's Implementation of Facial Recognition Is More Dangerous Than You Think</title>
+    <id>https://news.ycombinator.com/item?id=38354700</id>
+    <updated>2023-11-20T21:02:11Z</updated>
+    <published>2023-11-20T21:02:11Z</published>
+    <link href="https://epic.org/dont-take-it-at-face-value-why-tsas-implementation-of-facial-recognition-is-more-dangerous-than-you-think/" />
+    <author>
+      <name>underseacables</name>
+    </author>
+    <content type="html">&lt;p&gt;95 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38354700&quot;&gt;56 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38354700&quot;&gt;56 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">98 &amp;#8211; Typst &amp;#8211; Compose Papers Faster</title>
+    <id>https://news.ycombinator.com/item?id=38354422</id>
+    <updated>2023-11-20T20:44:03Z</updated>
+    <published>2023-11-20T20:44:03Z</published>
+    <link href="https://typst.app/" />
+    <author>
+      <name>iNic</name>
+    </author>
+    <content type="html">&lt;p&gt;98 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38354422&quot;&gt;34 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38354422&quot;&gt;34 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">116 &amp;#8211; LLMs cannot find reasoning errors, but can correct them</title>
+    <id>https://news.ycombinator.com/item?id=38353285</id>
+    <updated>2023-11-20T19:35:27Z</updated>
+    <published>2023-11-20T19:35:27Z</published>
+    <link href="https://arxiv.org/abs/2311.08516" />
+    <author>
+      <name>koie</name>
+    </author>
+    <content type="html">&lt;p&gt;116 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38353285&quot;&gt;41 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38353285&quot;&gt;41 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">295 &amp;#8211; Sam Altman is still trying to return as OpenAI CEO</title>
     <id>https://news.ycombinator.com/item?id=38352891</id>
@@ -18,10 +62,10 @@
     <author>
       <name>mfiguiere</name>
     </author>
-    <content type="html">&lt;p&gt;295 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38352891&quot;&gt;614 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38352891&quot;&gt;614 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;295 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38352891&quot;&gt;716 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38352891&quot;&gt;716 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">161 &amp;#8211; OpenAI: Facts from a&amp;#160;Weekend</title>
+    <title type="html">169 &amp;#8211; OpenAI: Facts from a&amp;#160;Weekend</title>
     <id>https://news.ycombinator.com/item?id=38352028</id>
     <updated>2023-11-20T18:21:45Z</updated>
     <published>2023-11-20T18:21:45Z</published>
@@ -29,10 +73,21 @@
     <author>
       <name>A_D_E_P_T</name>
     </author>
-    <content type="html">&lt;p&gt;161 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=38352028&quot;&gt;89 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38352028&quot;&gt;89 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;169 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38352028&quot;&gt;92 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38352028&quot;&gt;92 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">254 &amp;#8211; 15-150: Principles of Functional Programming</title>
+    <title type="html">90 &amp;#8211; US Seeks More Than $4B from Binance to End Criminal Case</title>
+    <id>https://news.ycombinator.com/item?id=38351497</id>
+    <updated>2023-11-20T17:52:30Z</updated>
+    <published>2023-11-20T17:52:30Z</published>
+    <link href="https://www.bloomberg.com/news/articles/2023-11-20/us-seeks-more-than-4-billion-from-binance-to-end-criminal-case" />
+    <author>
+      <name>crypt1d</name>
+    </author>
+    <content type="html">&lt;p&gt;90 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38351497&quot;&gt;49 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38351497&quot;&gt;49 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">275 &amp;#8211; 15-150: Principles of Functional Programming</title>
     <id>https://news.ycombinator.com/item?id=38351195</id>
     <updated>2023-11-20T17:34:50Z</updated>
     <published>2023-11-20T17:34:50Z</published>
@@ -40,10 +95,10 @@
     <author>
       <name>brandonspark</name>
     </author>
-    <content type="html">&lt;p&gt;254 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38351195&quot;&gt;77 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38351195&quot;&gt;77 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;275 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38351195&quot;&gt;85 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38351195&quot;&gt;85 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">88 &amp;#8211; Apple plans to equip MacBooks with in-house cellular modems</title>
+    <title type="html">107 &amp;#8211; Apple plans to equip MacBooks with in-house cellular modems</title>
     <id>https://news.ycombinator.com/item?id=38351048</id>
     <updated>2023-11-20T17:27:03Z</updated>
     <published>2023-11-20T17:27:03Z</published>
@@ -51,10 +106,10 @@
     <author>
       <name>mgh2</name>
     </author>
-    <content type="html">&lt;p&gt;88 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38351048&quot;&gt;141 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38351048&quot;&gt;141 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;107 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38351048&quot;&gt;166 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38351048&quot;&gt;166 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">113 &amp;#8211; Who Controls OpenAI?</title>
+    <title type="html">117 &amp;#8211; Who Controls OpenAI?</title>
     <id>https://news.ycombinator.com/item?id=38350746</id>
     <updated>2023-11-20T17:12:17Z</updated>
     <published>2023-11-20T17:12:17Z</published>
@@ -62,10 +117,10 @@
     <author>
       <name>jasondavies</name>
     </author>
-    <content type="html">&lt;p&gt;113 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38350746&quot;&gt;46 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38350746&quot;&gt;46 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;117 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38350746&quot;&gt;49 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38350746&quot;&gt;49 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">303 &amp;#8211; Airlines will make $118B in extra fees</title>
+    <title type="html">328 &amp;#8211; Airlines will make $118B in extra fees</title>
     <id>https://news.ycombinator.com/item?id=38350341</id>
     <updated>2023-11-20T16:47:08Z</updated>
     <published>2023-11-20T16:47:08Z</published>
@@ -73,10 +128,10 @@
     <author>
       <name>thunderbong</name>
     </author>
-    <content type="html">&lt;p&gt;303 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38350341&quot;&gt;229 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38350341&quot;&gt;229 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;328 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38350341&quot;&gt;251 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38350341&quot;&gt;251 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">235 &amp;#8211; River: A fast, robust job queue for Go and Postgres</title>
+    <title type="html">253 &amp;#8211; River: A fast, robust job queue for Go and Postgres</title>
     <id>https://news.ycombinator.com/item?id=38349716</id>
     <updated>2023-11-20T15:54:03Z</updated>
     <published>2023-11-20T15:54:03Z</published>
@@ -84,7 +139,7 @@
     <author>
       <name>bo0tzz</name>
     </author>
-    <content type="html">&lt;p&gt;235 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38349716&quot;&gt;70 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38349716&quot;&gt;70 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;253 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38349716&quot;&gt;73 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38349716&quot;&gt;73 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">256 &amp;#8211; OpenAI's chaos does not add up</title>
@@ -106,7 +161,7 @@
     <author>
       <name>hashhar</name>
     </author>
-    <content type="html">&lt;p&gt;266 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38349357&quot;&gt;72 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38349357&quot;&gt;72 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;266 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38349357&quot;&gt;77 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38349357&quot;&gt;77 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">126 &amp;#8211; &quot;Et Tu, Ilya?&quot;</title>
@@ -150,7 +205,7 @@
     <author>
       <name>rntn</name>
     </author>
-    <content type="html">&lt;p&gt;107 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38348556&quot;&gt;25 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38348556&quot;&gt;25 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;107 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38348556&quot;&gt;26 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38348556&quot;&gt;26 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">135 &amp;#8211; Argentina's New President Wants to Adopt the Dollar as the National Currency</title>
@@ -161,7 +216,7 @@
     <author>
       <name>JumpCrisscross</name>
     </author>
-    <content type="html">&lt;p&gt;135 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38348036&quot;&gt;157 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38348036&quot;&gt;157 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;135 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38348036&quot;&gt;160 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38348036&quot;&gt;160 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">401 &amp;#8211; 550 of 700 Employees OpenAI tell the board to resign</title>
@@ -172,10 +227,10 @@
     <author>
       <name>georgehill</name>
     </author>
-    <content type="html">&lt;p&gt;401 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=38348010&quot;&gt;314 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38348010&quot;&gt;314 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;401 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=38348010&quot;&gt;317 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38348010&quot;&gt;317 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">1271 &amp;#8211; OpenAI staff threaten to quit unless board resigns</title>
+    <title type="html">1322 &amp;#8211; OpenAI staff threaten to quit unless board resigns</title>
     <id>https://news.ycombinator.com/item?id=38347868</id>
     <updated>2023-11-20T13:41:27Z</updated>
     <published>2023-11-20T13:41:27Z</published>
@@ -183,10 +238,10 @@
     <author>
       <name>skilled</name>
     </author>
-    <content type="html">&lt;p&gt;1271 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=38347868&quot;&gt;640 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38347868&quot;&gt;640 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;1322 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38347868&quot;&gt;645 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38347868&quot;&gt;645 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">546 &amp;#8211; I deeply regret my participation in the board's actions</title>
+    <title type="html">557 &amp;#8211; I deeply regret my participation in the board's actions</title>
     <id>https://news.ycombinator.com/item?id=38347501</id>
     <updated>2023-11-20T13:16:22Z</updated>
     <published>2023-11-20T13:16:22Z</published>
@@ -194,10 +249,10 @@
     <author>
       <name>Palmik</name>
     </author>
-    <content type="html">&lt;p&gt;546 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38347501&quot;&gt;331 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38347501&quot;&gt;331 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;557 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38347501&quot;&gt;334 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38347501&quot;&gt;334 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">420 &amp;#8211; OpenAI's misalignment and Microsoft's gain</title>
+    <title type="html">427 &amp;#8211; OpenAI's misalignment and Microsoft's gain</title>
     <id>https://news.ycombinator.com/item?id=38346869</id>
     <updated>2023-11-20T12:10:25Z</updated>
     <published>2023-11-20T12:10:25Z</published>
@@ -205,10 +260,10 @@
     <author>
       <name>todsacerdoti</name>
     </author>
-    <content type="html">&lt;p&gt;420 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38346869&quot;&gt;231 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38346869&quot;&gt;231 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;427 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38346869&quot;&gt;233 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38346869&quot;&gt;233 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">249 &amp;#8211; Roc &amp;#8211; A fast, friendly, functional language</title>
+    <title type="html">259 &amp;#8211; Roc &amp;#8211; A fast, friendly, functional language</title>
     <id>https://news.ycombinator.com/item?id=38346862</id>
     <updated>2023-11-20T12:09:30Z</updated>
     <published>2023-11-20T12:09:30Z</published>
@@ -216,10 +271,10 @@
     <author>
       <name>dlib</name>
     </author>
-    <content type="html">&lt;p&gt;249 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38346862&quot;&gt;77 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38346862&quot;&gt;77 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;259 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38346862&quot;&gt;85 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38346862&quot;&gt;85 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">1692 &amp;#8211; YouTube slows down video load times when using Firefox</title>
+    <title type="html">1721 &amp;#8211; YouTube slows down video load times when using Firefox</title>
     <id>https://news.ycombinator.com/item?id=38345858</id>
     <updated>2023-11-20T10:16:14Z</updated>
     <published>2023-11-20T10:16:14Z</published>
@@ -227,7 +282,7 @@
     <author>
       <name>csvm</name>
     </author>
-    <content type="html">&lt;p&gt;1692 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38345858&quot;&gt;405 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38345858&quot;&gt;405 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;1721 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=38345858&quot;&gt;409 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38345858&quot;&gt;409 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">192 &amp;#8211; Emmet Shear statement as Interim CEO of OpenAI</title>
@@ -252,7 +307,7 @@
     <content type="html">&lt;p&gt;86 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38345053&quot;&gt;51 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38345053&quot;&gt;51 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">133 &amp;#8211; The Bluffers Guide to the Mythical Man Month</title>
+    <title type="html">140 &amp;#8211; The Bluffers Guide to the Mythical Man Month</title>
     <id>https://news.ycombinator.com/item?id=38345017</id>
     <updated>2023-11-20T08:54:16Z</updated>
     <published>2023-11-20T08:54:16Z</published>
@@ -260,10 +315,10 @@
     <author>
       <name>JazCE</name>
     </author>
-    <content type="html">&lt;p&gt;133 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38345017&quot;&gt;73 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38345017&quot;&gt;73 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;140 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38345017&quot;&gt;79 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38345017&quot;&gt;79 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">254 &amp;#8211; The Death Star and the Final Trench Run (2017)</title>
+    <title type="html">260 &amp;#8211; The Death Star and the Final Trench Run (2017)</title>
     <id>https://news.ycombinator.com/item?id=38344973</id>
     <updated>2023-11-20T08:50:53Z</updated>
     <published>2023-11-20T08:50:53Z</published>
@@ -271,10 +326,10 @@
     <author>
       <name>BerislavLopac</name>
     </author>
-    <content type="html">&lt;p&gt;254 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38344973&quot;&gt;103 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38344973&quot;&gt;103 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;260 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38344973&quot;&gt;109 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38344973&quot;&gt;109 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">1676 &amp;#8211; Sam Altman, Greg Brockman and others to join Microsoft</title>
+    <title type="html">1689 &amp;#8211; Sam Altman, Greg Brockman and others to join Microsoft</title>
     <id>https://news.ycombinator.com/item?id=38344196</id>
     <updated>2023-11-20T07:56:13Z</updated>
     <published>2023-11-20T07:56:13Z</published>
@@ -282,61 +337,6 @@
     <author>
       <name>JimDabell</name>
     </author>
-    <content type="html">&lt;p&gt;1676 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38344196&quot;&gt;1216 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38344196&quot;&gt;1216 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">280 &amp;#8211; RSS can be used to distribute all sorts of information</title>
-    <id>https://news.ycombinator.com/item?id=38343385</id>
-    <updated>2023-11-20T06:29:01Z</updated>
-    <published>2023-11-20T06:29:01Z</published>
-    <link href="https://colinwalker.blog/blog/?date=2023-11-19" />
-    <author>
-      <name>walterbell</name>
-    </author>
-    <content type="html">&lt;p&gt;280 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38343385&quot;&gt;136 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38343385&quot;&gt;136 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">95 &amp;#8211; TIL you could make xkcd-like plots with matplotlib</title>
-    <id>https://news.ycombinator.com/item?id=38343203</id>
-    <updated>2023-11-20T06:10:46Z</updated>
-    <published>2023-11-20T06:10:46Z</published>
-    <link href="https://matplotlib.org/stable/gallery/showcase/xkcd.html" />
-    <author>
-      <name>bobsacamano19</name>
-    </author>
-    <content type="html">&lt;p&gt;95 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38343203&quot;&gt;17 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38343203&quot;&gt;17 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">486 &amp;#8211; Krita AI Diffusion</title>
-    <id>https://news.ycombinator.com/item?id=38342670</id>
-    <updated>2023-11-20T05:22:12Z</updated>
-    <published>2023-11-20T05:22:12Z</published>
-    <link href="https://github.com/Acly/krita-ai-diffusion" />
-    <author>
-      <name>unstuck3958</name>
-    </author>
-    <content type="html">&lt;p&gt;486 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38342670&quot;&gt;206 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38342670&quot;&gt;206 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">538 &amp;#8211; Emmett Shear becomes interim OpenAI CEO as Altman talks break down</title>
-    <id>https://news.ycombinator.com/item?id=38342643</id>
-    <updated>2023-11-20T05:19:57Z</updated>
-    <published>2023-11-20T05:19:57Z</published>
-    <link href="https://www.theverge.com/2023/11/20/23967515/sam-altman-openai-board-fired-new-ceo" />
-    <author>
-      <name>andsoitis</name>
-    </author>
-    <content type="html">&lt;p&gt;538 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38342643&quot;&gt;529 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38342643&quot;&gt;529 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">186 &amp;#8211; Setenv Is Not Thread Safe and C Doesn't Want to Fix It</title>
-    <id>https://news.ycombinator.com/item?id=38342642</id>
-    <updated>2023-11-20T05:19:56Z</updated>
-    <published>2023-11-20T05:19:56Z</published>
-    <link href="https://www.evanjones.ca/setenv-is-not-thread-safe.html" />
-    <author>
-      <name>r4um</name>
-    </author>
-    <content type="html">&lt;p&gt;186 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38342642&quot;&gt;234 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38342642&quot;&gt;234 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;1689 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=38344196&quot;&gt;1218 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=38344196&quot;&gt;1218 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
