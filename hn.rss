@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="html">score&gt;85 &amp;#8211; hnapp</title>
   <id>http://hnapp.com/rss?q=score%3E85</id>
-  <updated>2024-03-11T15:08:25Z</updated>
+  <updated>2024-03-11T17:22:22Z</updated>
   <link href="http://hnapp.com/?q=score%3E85" />
   <link href="http://hnapp.com/rss?q=score%3E85" rel="self" />
   <author>
@@ -10,7 +10,29 @@
   </author>
   <generator uri="http://hnapp.com">hnapp</generator>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">86 &amp;#8211; Airbnb is banning indoor security cameras</title>
+    <title type="html">87 &amp;#8211; JSON Canvas &amp;#8211; An open file format for infinite canvas data</title>
+    <id>https://news.ycombinator.com/item?id=39670922</id>
+    <updated>2024-03-11T17:22:22Z</updated>
+    <published>2024-03-11T17:22:22Z</published>
+    <link href="https://jsoncanvas.org/" />
+    <author>
+      <name>nickmain</name>
+    </author>
+    <content type="html">&lt;p&gt;87 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39670922&quot;&gt;11 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39670922&quot;&gt;11 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">182 &amp;#8211; gh-116167: Allow disabling the GIL</title>
+    <id>https://news.ycombinator.com/item?id=39670102</id>
+    <updated>2024-03-11T16:21:17Z</updated>
+    <published>2024-03-11T16:21:17Z</published>
+    <link href="https://github.com/python/cpython/pull/116338" />
+    <author>
+      <name>freediver</name>
+    </author>
+    <content type="html">&lt;p&gt;182 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39670102&quot;&gt;88 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39670102&quot;&gt;88 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">185 &amp;#8211; Airbnb is banning indoor security cameras</title>
     <id>https://news.ycombinator.com/item?id=39669167</id>
     <updated>2024-03-11T15:08:25Z</updated>
     <published>2024-03-11T15:08:25Z</published>
@@ -18,10 +40,43 @@
     <author>
       <name>matbilodeau</name>
     </author>
-    <content type="html">&lt;p&gt;86 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39669167&quot;&gt;178 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39669167&quot;&gt;178 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;185 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39669167&quot;&gt;259 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39669167&quot;&gt;259 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">118 &amp;#8211; GrapheneOS finds Bluetooth memory corruption via ARM MTE</title>
+    <title type="html">109 &amp;#8211; Intel Gaudi2 chips outperform Nvidia H100 on diffusion transformers</title>
+    <id>https://news.ycombinator.com/item?id=39669008</id>
+    <updated>2024-03-11T14:56:21Z</updated>
+    <published>2024-03-11T14:56:21Z</published>
+    <link href="https://stability.ai/news/putting-the-ai-supercomputer-to-work" />
+    <author>
+      <name>memossy</name>
+    </author>
+    <content type="html">&lt;p&gt;109 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39669008&quot;&gt;51 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39669008&quot;&gt;51 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">90 &amp;#8211; Launch HN: Onedoc (YC W24) &amp;#8211; A better way to create PDFs</title>
+    <id>https://news.ycombinator.com/item?id=39668962</id>
+    <updated>2024-03-11T14:52:56Z</updated>
+    <published>2024-03-11T14:52:56Z</published>
+    <link href="https://news.ycombinator.com/item?id=39668962" />
+    <author>
+      <name>AugusteLef</name>
+    </author>
+    <content type="html">&lt;p&gt;90 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39668962&quot;&gt;88 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39668962&quot;&gt;88 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">90 &amp;#8211; What Extropic Is Building</title>
+    <id>https://news.ycombinator.com/item?id=39668430</id>
+    <updated>2024-03-11T14:09:05Z</updated>
+    <published>2024-03-11T14:09:05Z</published>
+    <link href="https://www.extropic.ai/future" />
+    <author>
+      <name>jonbraun</name>
+    </author>
+    <content type="html">&lt;p&gt;90 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39668430&quot;&gt;76 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39668430&quot;&gt;76 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">166 &amp;#8211; GrapheneOS finds Bluetooth memory corruption via ARM MTE</title>
     <id>https://news.ycombinator.com/item?id=39668053</id>
     <updated>2024-03-11T13:36:11Z</updated>
     <published>2024-03-11T13:36:11Z</published>
@@ -29,10 +84,10 @@
     <author>
       <name>gaul</name>
     </author>
-    <content type="html">&lt;p&gt;118 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39668053&quot;&gt;70 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39668053&quot;&gt;70 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;166 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39668053&quot;&gt;85 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39668053&quot;&gt;85 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">146 &amp;#8211; Building an Open Source Decentralized E-Book Search Engine</title>
+    <title type="html">165 &amp;#8211; Building an Open Source Decentralized E-Book Search Engine</title>
     <id>https://news.ycombinator.com/item?id=39666993</id>
     <updated>2024-03-11T11:56:45Z</updated>
     <published>2024-03-11T11:56:45Z</published>
@@ -40,10 +95,10 @@
     <author>
       <name>j2qk3b</name>
     </author>
-    <content type="html">&lt;p&gt;146 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39666993&quot;&gt;18 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39666993&quot;&gt;18 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;165 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39666993&quot;&gt;24 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39666993&quot;&gt;24 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">101 &amp;#8211; Automakers Are Sharing Consumers' Driving Behavior with Insurance Companies</title>
+    <title type="html">111 &amp;#8211; Automakers Are Sharing Consumers' Driving Behavior with Insurance Companies</title>
     <id>https://news.ycombinator.com/item?id=39666976</id>
     <updated>2024-03-11T11:55:08Z</updated>
     <published>2024-03-11T11:55:08Z</published>
@@ -51,10 +106,10 @@
     <author>
       <name>xnx</name>
     </author>
-    <content type="html">&lt;p&gt;101 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=39666976&quot;&gt;127 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39666976&quot;&gt;127 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;111 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=39666976&quot;&gt;134 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39666976&quot;&gt;134 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">236 &amp;#8211; Flowers for Algernon (1965) [pdf]</title>
+    <title type="html">259 &amp;#8211; Flowers for Algernon (1965) [pdf]</title>
     <id>https://news.ycombinator.com/item?id=39666956</id>
     <updated>2024-03-11T11:53:03Z</updated>
     <published>2024-03-11T11:53:03Z</published>
@@ -62,10 +117,10 @@
     <author>
       <name>xNeil</name>
     </author>
-    <content type="html">&lt;p&gt;236 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39666956&quot;&gt;164 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39666956&quot;&gt;164 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;259 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39666956&quot;&gt;179 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39666956&quot;&gt;179 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">102 &amp;#8211; Show HN: Teable &amp;#8211; Open-Source No-Code Database Fusion of Postgres and Airtable</title>
+    <title type="html">128 &amp;#8211; Show HN: Teable &amp;#8211; Open-Source No-Code Database Fusion of Postgres and Airtable</title>
     <id>https://news.ycombinator.com/item?id=39666865</id>
     <updated>2024-03-11T11:42:03Z</updated>
     <published>2024-03-11T11:42:03Z</published>
@@ -73,7 +128,7 @@
     <author>
       <name>bieberChen</name>
     </author>
-    <content type="html">&lt;p&gt;102 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39666865&quot;&gt;50 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39666865&quot;&gt;50 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;128 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39666865&quot;&gt;56 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39666865&quot;&gt;56 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">109 &amp;#8211; European Commission's use of Microsoft 365 infringes data protection law for EU</title>
@@ -87,7 +142,7 @@
     <content type="html">&lt;p&gt;109 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39666582&quot;&gt;61 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39666582&quot;&gt;61 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">137 &amp;#8211; European Commission's use of Microsoft 365 infringes data protection law for EU</title>
+    <title type="html">140 &amp;#8211; European Commission's use of Microsoft 365 infringes data protection law for EU</title>
     <id>https://news.ycombinator.com/item?id=39666561</id>
     <updated>2024-03-11T10:57:54Z</updated>
     <published>2024-03-11T10:57:54Z</published>
@@ -95,7 +150,7 @@
     <author>
       <name>fermigier</name>
     </author>
-    <content type="html">&lt;p&gt;137 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39666561&quot;&gt;91 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39666561&quot;&gt;91 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;140 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39666561&quot;&gt;93 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39666561&quot;&gt;93 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">103 &amp;#8211; A TUI Git client inspired by Magit</title>
@@ -109,7 +164,7 @@
     <content type="html">&lt;p&gt;103 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39666520&quot;&gt;55 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39666520&quot;&gt;55 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">89 &amp;#8211; Maybe Functions</title>
+    <title type="html">91 &amp;#8211; Maybe Functions</title>
     <id>https://news.ycombinator.com/item?id=39666393</id>
     <updated>2024-03-11T10:22:55Z</updated>
     <published>2024-03-11T10:22:55Z</published>
@@ -117,7 +172,7 @@
     <author>
       <name>gitgud</name>
     </author>
-    <content type="html">&lt;p&gt;89 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39666393&quot;&gt;93 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39666393&quot;&gt;93 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;91 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=39666393&quot;&gt;95 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39666393&quot;&gt;95 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">136 &amp;#8211; Humanity Is Dangerously Pushing Its Ability to Tolerate Heat</title>
@@ -128,10 +183,10 @@
     <author>
       <name>Brajeshwar</name>
     </author>
-    <content type="html">&lt;p&gt;136 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39666369&quot;&gt;239 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39666369&quot;&gt;239 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;136 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39666369&quot;&gt;244 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39666369&quot;&gt;244 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">134 &amp;#8211; (How to Write a (Lisp) Interpreter (In Python)) (2010)</title>
+    <title type="html">143 &amp;#8211; (How to Write a (Lisp) Interpreter (In Python)) (2010)</title>
     <id>https://news.ycombinator.com/item?id=39665939</id>
     <updated>2024-03-11T08:47:55Z</updated>
     <published>2024-03-11T08:47:55Z</published>
@@ -139,7 +194,7 @@
     <author>
       <name>selvan</name>
     </author>
-    <content type="html">&lt;p&gt;134 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39665939&quot;&gt;49 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39665939&quot;&gt;49 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;143 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39665939&quot;&gt;53 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39665939&quot;&gt;53 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">87 &amp;#8211; Did the whole pairdrop repo just vanish</title>
@@ -164,7 +219,7 @@
     <content type="html">&lt;p&gt;123 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39665017&quot;&gt;29 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39665017&quot;&gt;29 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">146 &amp;#8211; Speech and Language Processing (3rd ed. draft)</title>
+    <title type="html">155 &amp;#8211; Speech and Language Processing (3rd ed. draft)</title>
     <id>https://news.ycombinator.com/item?id=39664782</id>
     <updated>2024-03-11T03:59:13Z</updated>
     <published>2024-03-11T03:59:13Z</published>
@@ -172,10 +227,10 @@
     <author>
       <name>yeesian</name>
     </author>
-    <content type="html">&lt;p&gt;146 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39664782&quot;&gt;26 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39664782&quot;&gt;26 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;155 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39664782&quot;&gt;28 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39664782&quot;&gt;28 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">110 &amp;#8211; AMD announces the Spartan UltraScale+ FPGA family</title>
+    <title type="html">114 &amp;#8211; AMD announces the Spartan UltraScale+ FPGA family</title>
     <id>https://news.ycombinator.com/item?id=39664221</id>
     <updated>2024-03-11T02:01:35Z</updated>
     <published>2024-03-11T02:01:35Z</published>
@@ -183,10 +238,10 @@
     <author>
       <name>chrsw</name>
     </author>
-    <content type="html">&lt;p&gt;110 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39664221&quot;&gt;77 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39664221&quot;&gt;77 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;114 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39664221&quot;&gt;77 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39664221&quot;&gt;77 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">101 &amp;#8211; Jupiter's ocean moon Europa, thought to be habitable, may be oxygen-starved</title>
+    <title type="html">102 &amp;#8211; Jupiter's ocean moon Europa, thought to be habitable, may be oxygen-starved</title>
     <id>https://news.ycombinator.com/item?id=39663708</id>
     <updated>2024-03-11T00:37:45Z</updated>
     <published>2024-03-11T00:37:45Z</published>
@@ -194,10 +249,10 @@
     <author>
       <name>bookofjoe</name>
     </author>
-    <content type="html">&lt;p&gt;101 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=39663708&quot;&gt;72 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39663708&quot;&gt;72 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;102 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39663708&quot;&gt;75 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39663708&quot;&gt;75 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">197 &amp;#8211; eBPF Documentary</title>
+    <title type="html">198 &amp;#8211; eBPF Documentary</title>
     <id>https://news.ycombinator.com/item?id=39663135</id>
     <updated>2024-03-10T22:45:34Z</updated>
     <published>2024-03-10T22:45:34Z</published>
@@ -205,7 +260,7 @@
     <author>
       <name>JNRowe</name>
     </author>
-    <content type="html">&lt;p&gt;197 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39663135&quot;&gt;63 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39663135&quot;&gt;63 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;198 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39663135&quot;&gt;63 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39663135&quot;&gt;63 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">137 &amp;#8211; Lead in gasoline blunted IQ of half the U.S. population, study says</title>
@@ -219,7 +274,7 @@
     <content type="html">&lt;p&gt;137 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39662988&quot;&gt;140 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39662988&quot;&gt;140 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">373 &amp;#8211; LocalSend: Open-source, cross-platform file sharing to nearby devices</title>
+    <title type="html">377 &amp;#8211; LocalSend: Open-source, cross-platform file sharing to nearby devices</title>
     <id>https://news.ycombinator.com/item?id=39662721</id>
     <updated>2024-03-10T21:38:06Z</updated>
     <published>2024-03-10T21:38:06Z</published>
@@ -227,10 +282,10 @@
     <author>
       <name>alexzeitler</name>
     </author>
-    <content type="html">&lt;p&gt;373 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39662721&quot;&gt;141 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39662721&quot;&gt;141 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;377 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39662721&quot;&gt;142 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39662721&quot;&gt;142 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">361 &amp;#8211; Monte-Carlo graph search from first principles</title>
+    <title type="html">368 &amp;#8211; Monte-Carlo graph search from first principles</title>
     <id>https://news.ycombinator.com/item?id=39662698</id>
     <updated>2024-03-10T21:33:46Z</updated>
     <published>2024-03-10T21:33:46Z</published>
@@ -238,10 +293,10 @@
     <author>
       <name>bumbledraven</name>
     </author>
-    <content type="html">&lt;p&gt;361 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=39662698&quot;&gt;24 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39662698&quot;&gt;24 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;368 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39662698&quot;&gt;24 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39662698&quot;&gt;24 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">298 &amp;#8211; The Best Essay</title>
+    <title type="html">304 &amp;#8211; The Best Essay</title>
     <id>https://news.ycombinator.com/item?id=39662615</id>
     <updated>2024-03-10T21:20:21Z</updated>
     <published>2024-03-10T21:20:21Z</published>
@@ -249,7 +304,7 @@
     <author>
       <name>tosh</name>
     </author>
-    <content type="html">&lt;p&gt;298 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39662615&quot;&gt;217 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39662615&quot;&gt;217 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;304 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39662615&quot;&gt;219 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39662615&quot;&gt;219 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">127 &amp;#8211; My Guide to Software Engineering Contracting in UK</title>
@@ -263,7 +318,7 @@
     <content type="html">&lt;p&gt;127 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39662506&quot;&gt;84 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39662506&quot;&gt;84 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">157 &amp;#8211; Using PostgreSQL for military geoanalytics tasks</title>
+    <title type="html">160 &amp;#8211; Using PostgreSQL for military geoanalytics tasks</title>
     <id>https://news.ycombinator.com/item?id=39662246</id>
     <updated>2024-03-10T20:19:07Z</updated>
     <published>2024-03-10T20:19:07Z</published>
@@ -271,10 +326,10 @@
     <author>
       <name>PaulHoule</name>
     </author>
-    <content type="html">&lt;p&gt;157 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39662246&quot;&gt;12 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39662246&quot;&gt;12 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;160 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39662246&quot;&gt;14 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39662246&quot;&gt;14 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">221 &amp;#8211; Perf Is Not Enough</title>
+    <title type="html">234 &amp;#8211; Perf Is Not Enough</title>
     <id>https://news.ycombinator.com/item?id=39662234</id>
     <updated>2024-03-10T20:17:50Z</updated>
     <published>2024-03-10T20:17:50Z</published>
@@ -282,61 +337,6 @@
     <author>
       <name>shubhamjain</name>
     </author>
-    <content type="html">&lt;p&gt;221 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=39662234&quot;&gt;66 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39662234&quot;&gt;66 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">179 &amp;#8211; PaperMC/Paper: The most widely used, high performance Minecraft server</title>
-    <id>https://news.ycombinator.com/item?id=39662079</id>
-    <updated>2024-03-10T19:55:28Z</updated>
-    <published>2024-03-10T19:55:28Z</published>
-    <link href="https://github.com/PaperMC/Paper" />
-    <author>
-      <name>notamy</name>
-    </author>
-    <content type="html">&lt;p&gt;179 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39662079&quot;&gt;51 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39662079&quot;&gt;51 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">109 &amp;#8211; The Fashion Police in 16th-century Italy (2014)</title>
-    <id>https://news.ycombinator.com/item?id=39661721</id>
-    <updated>2024-03-10T19:14:48Z</updated>
-    <published>2024-03-10T19:14:48Z</published>
-    <link href="https://www.medievalists.net/2014/10/fashion-police-16th-century-italy/" />
-    <author>
-      <name>ohjeez</name>
-    </author>
-    <content type="html">&lt;p&gt;109 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39661721&quot;&gt;36 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39661721&quot;&gt;36 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">175 &amp;#8211; Rebuilding memchess.com from its archive</title>
-    <id>https://news.ycombinator.com/item?id=39661497</id>
-    <updated>2024-03-10T18:48:34Z</updated>
-    <published>2024-03-10T18:48:34Z</published>
-    <link href="https://grondilu.github.io/memchess/" />
-    <author>
-      <name>grondilu</name>
-    </author>
-    <content type="html">&lt;p&gt;175 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39661497&quot;&gt;38 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39661497&quot;&gt;38 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">207 &amp;#8211; Show HN: Timelock.dev &amp;#8211; Send a secret into the future using timelock encryption</title>
-    <id>https://news.ycombinator.com/item?id=39661482</id>
-    <updated>2024-03-10T18:46:19Z</updated>
-    <published>2024-03-10T18:46:19Z</published>
-    <link href="https://timelock.dev/" />
-    <author>
-      <name>aarreedd</name>
-    </author>
-    <content type="html">&lt;p&gt;207 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39661482&quot;&gt;137 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39661482&quot;&gt;137 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">136 &amp;#8211; Kernel Hardening: Protect Linux user accounts against brute force attacks</title>
-    <id>https://news.ycombinator.com/item?id=39660990</id>
-    <updated>2024-03-10T17:46:25Z</updated>
-    <published>2024-03-10T17:46:25Z</published>
-    <link href="https://github.com/Kicksecure/security-misc" />
-    <author>
-      <name>CHEF-KOCH</name>
-    </author>
-    <content type="html">&lt;p&gt;136 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39660990&quot;&gt;76 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39660990&quot;&gt;76 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;234 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=39662234&quot;&gt;68 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=39662234&quot;&gt;68 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
