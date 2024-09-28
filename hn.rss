@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title type="html">score&gt;85 &amp;#8211; hnapp</title>
   <id>http://hnapp.com/rss?q=score%3E85</id>
-  <updated>2024-09-28T05:56:37Z</updated>
+  <updated>2024-09-28T06:51:41Z</updated>
   <link href="http://hnapp.com/?q=score%3E85" />
   <link href="http://hnapp.com/rss?q=score%3E85" rel="self" />
   <author>
@@ -10,7 +10,18 @@
   </author>
   <generator uri="http://hnapp.com">hnapp</generator>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">144 &amp;#8211; Amusing Ourselves to Death</title>
+    <title type="html">88 &amp;#8211; FFT-based ocean-wave rendering, implemented in Godot</title>
+    <id>https://news.ycombinator.com/item?id=41678412</id>
+    <updated>2024-09-28T06:51:41Z</updated>
+    <published>2024-09-28T06:51:41Z</published>
+    <link href="https://github.com/2Retr0/GodotOceanWaves" />
+    <author>
+      <name>RafelMri</name>
+    </author>
+    <content type="html">&lt;p&gt;88 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41678412&quot;&gt;13 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41678412&quot;&gt;13 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">163 &amp;#8211; Amusing Ourselves to Death (2014)</title>
     <id>https://news.ycombinator.com/item?id=41678208</id>
     <updated>2024-09-28T05:56:37Z</updated>
     <published>2024-09-28T05:56:37Z</published>
@@ -18,10 +29,10 @@
     <author>
       <name>yamrzou</name>
     </author>
-    <content type="html">&lt;p&gt;144 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41678208&quot;&gt;85 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41678208&quot;&gt;85 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;163 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41678208&quot;&gt;109 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41678208&quot;&gt;109 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">116 &amp;#8211; Everything you need to know about Python 3.13 &amp;#8211; JIT and GIL went up the hill</title>
+    <title type="html">133 &amp;#8211; Everything you need to know about Python 3.13 &amp;#8211; JIT and GIL went up the hill</title>
     <id>https://news.ycombinator.com/item?id=41677131</id>
     <updated>2024-09-28T01:23:01Z</updated>
     <published>2024-09-28T01:23:01Z</published>
@@ -29,7 +40,7 @@
     <author>
       <name>chmaynard</name>
     </author>
-    <content type="html">&lt;p&gt;116 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41677131&quot;&gt;37 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41677131&quot;&gt;37 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;133 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41677131&quot;&gt;43 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41677131&quot;&gt;43 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">208 &amp;#8211; If WordPress is to survive, Matt Mullenweg must be removed</title>
@@ -40,10 +51,21 @@
     <author>
       <name>graeme</name>
     </author>
-    <content type="html">&lt;p&gt;208 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41676653&quot;&gt;158 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41676653&quot;&gt;158 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;208 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41676653&quot;&gt;164 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41676653&quot;&gt;164 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">141 &amp;#8211; US Trademark Office Cancels Marvel, DC's 'Super Hero' Marks</title>
+    <title type="html">88 &amp;#8211; Arch Linux and Valve Collaboration</title>
+    <id>https://news.ycombinator.com/item?id=41676646</id>
+    <updated>2024-09-27T23:47:51Z</updated>
+    <published>2024-09-27T23:47:51Z</published>
+    <link href="https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/RIZSKIBDSLY4S5J2E2STNP5DH4XZGJMR/" />
+    <author>
+      <name>jrepinc</name>
+    </author>
+    <content type="html">&lt;p&gt;88 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41676646&quot;&gt;9 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41676646&quot;&gt;9 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">146 &amp;#8211; US Trademark Office Cancels Marvel, DC's 'Super Hero' Marks</title>
     <id>https://news.ycombinator.com/item?id=41676297</id>
     <updated>2024-09-27T22:51:19Z</updated>
     <published>2024-09-27T22:51:19Z</published>
@@ -51,10 +73,10 @@
     <author>
       <name>h2odragon</name>
     </author>
-    <content type="html">&lt;p&gt;141 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=41676297&quot;&gt;43 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41676297&quot;&gt;43 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;146 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41676297&quot;&gt;47 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41676297&quot;&gt;47 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">92 &amp;#8211; Lion Cove: Intel's P-Core Roars</title>
+    <title type="html">97 &amp;#8211; Lion Cove: Intel's P-Core Roars</title>
     <id>https://news.ycombinator.com/item?id=41675637</id>
     <updated>2024-09-27T21:18:33Z</updated>
     <published>2024-09-27T21:18:33Z</published>
@@ -62,10 +84,10 @@
     <author>
       <name>luyu_wu</name>
     </author>
-    <content type="html">&lt;p&gt;92 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41675637&quot;&gt;35 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41675637&quot;&gt;35 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;97 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41675637&quot;&gt;38 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41675637&quot;&gt;38 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">113 &amp;#8211; Obsessed with Cuttle: Parametric CAD for prototyping, producing, and procrastin</title>
+    <title type="html">116 &amp;#8211; Obsessed with Cuttle: Parametric CAD for prototyping, producing, and procrastin</title>
     <id>https://news.ycombinator.com/item?id=41674677</id>
     <updated>2024-09-27T19:35:32Z</updated>
     <published>2024-09-27T19:35:32Z</published>
@@ -73,10 +95,10 @@
     <author>
       <name>todsacerdoti</name>
     </author>
-    <content type="html">&lt;p&gt;113 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41674677&quot;&gt;15 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41674677&quot;&gt;15 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;116 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41674677&quot;&gt;15 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41674677&quot;&gt;15 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">236 &amp;#8211; AMD Unveils Its First Small Language Model AMD-135M</title>
+    <title type="html">243 &amp;#8211; AMD Unveils Its First Small Language Model AMD-135M</title>
     <id>https://news.ycombinator.com/item?id=41674382</id>
     <updated>2024-09-27T19:05:05Z</updated>
     <published>2024-09-27T19:05:05Z</published>
@@ -84,10 +106,21 @@
     <author>
       <name>figomore</name>
     </author>
-    <content type="html">&lt;p&gt;236 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41674382&quot;&gt;67 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41674382&quot;&gt;67 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;243 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41674382&quot;&gt;67 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41674382&quot;&gt;67 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">195 &amp;#8211; SAML: A Technical Primer</title>
+    <title type="html">86 &amp;#8211; The Architecture of London Pubs (1966)</title>
+    <id>https://news.ycombinator.com/item?id=41674379</id>
+    <updated>2024-09-27T19:04:38Z</updated>
+    <published>2024-09-27T19:04:38Z</published>
+    <link href="https://thelondonmagazine.org/archive-the-architecture-of-london-pubs-by-stephen-gardiner/" />
+    <author>
+      <name>youbet</name>
+    </author>
+    <content type="html">&lt;p&gt;86 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41674379&quot;&gt;31 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41674379&quot;&gt;31 comments&lt;/a&gt;&lt;/p&gt;</content>
+  </entry>
+  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
+    <title type="html">197 &amp;#8211; SAML: A Technical Primer</title>
     <id>https://news.ycombinator.com/item?id=41674109</id>
     <updated>2024-09-27T18:38:38Z</updated>
     <published>2024-09-27T18:38:38Z</published>
@@ -95,10 +128,10 @@
     <author>
       <name>ned_at_codomain</name>
     </author>
-    <content type="html">&lt;p&gt;195 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41674109&quot;&gt;83 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41674109&quot;&gt;83 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;197 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41674109&quot;&gt;83 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41674109&quot;&gt;83 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">113 &amp;#8211; Guide to implementing 2D platformers (2012)</title>
+    <title type="html">114 &amp;#8211; Guide to implementing 2D platformers (2012)</title>
     <id>https://news.ycombinator.com/item?id=41672669</id>
     <updated>2024-09-27T16:39:43Z</updated>
     <published>2024-09-27T16:39:43Z</published>
@@ -106,10 +139,10 @@
     <author>
       <name>vvoruganti</name>
     </author>
-    <content type="html">&lt;p&gt;113 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41672669&quot;&gt;9 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41672669&quot;&gt;9 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;114 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41672669&quot;&gt;9 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41672669&quot;&gt;9 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">1124 &amp;#8211; Fraud, so much fraud</title>
+    <title type="html">1151 &amp;#8211; Fraud, so much fraud</title>
     <id>https://news.ycombinator.com/item?id=41672599</id>
     <updated>2024-09-27T16:33:37Z</updated>
     <published>2024-09-27T16:33:37Z</published>
@@ -117,7 +150,7 @@
     <author>
       <name>nabla9</name>
     </author>
-    <content type="html">&lt;p&gt;1124 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41672599&quot;&gt;661 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41672599&quot;&gt;661 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;1151 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=41672599&quot;&gt;665 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41672599&quot;&gt;665 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">96 &amp;#8211; Earth Is on the Brink of Breaching a 7th of Nine 'Planetary Boundaries'</title>
@@ -131,7 +164,7 @@
     <content type="html">&lt;p&gt;96 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41672418&quot;&gt;135 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41672418&quot;&gt;135 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">239 &amp;#8211; How AlphaChip transformed computer chip design</title>
+    <title type="html">241 &amp;#8211; How AlphaChip transformed computer chip design</title>
     <id>https://news.ycombinator.com/item?id=41672110</id>
     <updated>2024-09-27T15:56:01Z</updated>
     <published>2024-09-27T15:56:01Z</published>
@@ -139,7 +172,7 @@
     <author>
       <name>isof4ult</name>
     </author>
-    <content type="html">&lt;p&gt;239 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41672110&quot;&gt;151 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41672110&quot;&gt;151 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;241 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=41672110&quot;&gt;154 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41672110&quot;&gt;154 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">238 &amp;#8211; CA law means stores can't say you're buying a game if you're merely licensing it</title>
@@ -150,7 +183,7 @@
     <author>
       <name>sxp</name>
     </author>
-    <content type="html">&lt;p&gt;238 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41671838&quot;&gt;110 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41671838&quot;&gt;110 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;238 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41671838&quot;&gt;112 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41671838&quot;&gt;112 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">93 &amp;#8211; Minix 3 (2014)</title>
@@ -164,7 +197,7 @@
     <content type="html">&lt;p&gt;93 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41671690&quot;&gt;26 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41671690&quot;&gt;26 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">88 &amp;#8211; Show HN: Quadratic &amp;#8211; native JavaScript support in a spreadsheet</title>
+    <title type="html">91 &amp;#8211; Show HN: Quadratic &amp;#8211; native JavaScript support in a spreadsheet</title>
     <id>https://news.ycombinator.com/item?id=41671606</id>
     <updated>2024-09-27T15:24:13Z</updated>
     <published>2024-09-27T15:24:13Z</published>
@@ -172,10 +205,10 @@
     <author>
       <name>Manchego79</name>
     </author>
-    <content type="html">&lt;p&gt;88 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41671606&quot;&gt;31 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41671606&quot;&gt;31 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;91 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=41671606&quot;&gt;31 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41671606&quot;&gt;31 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">373 &amp;#8211; The best $4 ever spent</title>
+    <title type="html">376 &amp;#8211; The best $4 ever spent</title>
     <id>https://news.ycombinator.com/item?id=41671145</id>
     <updated>2024-09-27T14:46:20Z</updated>
     <published>2024-09-27T14:46:20Z</published>
@@ -183,7 +216,7 @@
     <author>
       <name>pmzy</name>
     </author>
-    <content type="html">&lt;p&gt;373 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41671145&quot;&gt;131 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41671145&quot;&gt;131 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;376 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41671145&quot;&gt;132 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41671145&quot;&gt;132 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">110 &amp;#8211; Binance founder 'CZ' leaves prison on Friday</title>
@@ -194,7 +227,7 @@
     <author>
       <name>svenfaw</name>
     </author>
-    <content type="html">&lt;p&gt;110 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41671091&quot;&gt;109 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41671091&quot;&gt;109 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;110 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41671091&quot;&gt;110 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41671091&quot;&gt;110 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">123 &amp;#8211; Rewriting Rust: A Response</title>
@@ -208,7 +241,7 @@
     <content type="html">&lt;p&gt;123 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41671034&quot;&gt;84 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41671034&quot;&gt;84 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">157 &amp;#8211; My MEGA65 is finally here</title>
+    <title type="html">161 &amp;#8211; My MEGA65 is finally here</title>
     <id>https://news.ycombinator.com/item?id=41670743</id>
     <updated>2024-09-27T14:13:54Z</updated>
     <published>2024-09-27T14:13:54Z</published>
@@ -216,10 +249,10 @@
     <author>
       <name>harel</name>
     </author>
-    <content type="html">&lt;p&gt;157 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41670743&quot;&gt;59 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41670743&quot;&gt;59 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;161 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=41670743&quot;&gt;60 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41670743&quot;&gt;60 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">371 &amp;#8211; Maggie Smith has died</title>
+    <title type="html">372 &amp;#8211; Maggie Smith has died</title>
     <id>https://news.ycombinator.com/item?id=41670429</id>
     <updated>2024-09-27T13:49:00Z</updated>
     <published>2024-09-27T13:49:00Z</published>
@@ -227,10 +260,10 @@
     <author>
       <name>asix66</name>
     </author>
-    <content type="html">&lt;p&gt;371 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=41670429&quot;&gt;42 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41670429&quot;&gt;42 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;372 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41670429&quot;&gt;42 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41670429&quot;&gt;42 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">682 &amp;#8211; CNN and USA Today have fake websites, I believe Forbes Marketplace runs them</title>
+    <title type="html">684 &amp;#8211; CNN and USA Today have fake websites, I believe Forbes Marketplace runs them</title>
     <id>https://news.ycombinator.com/item?id=41670210</id>
     <updated>2024-09-27T13:29:30Z</updated>
     <published>2024-09-27T13:29:30Z</published>
@@ -238,10 +271,10 @@
     <author>
       <name>greg_V</name>
     </author>
-    <content type="html">&lt;p&gt;682 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41670210&quot;&gt;260 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41670210&quot;&gt;260 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;684 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41670210&quot;&gt;260 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41670210&quot;&gt;260 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">207 &amp;#8211; MTA Open Data Challenge</title>
+    <title type="html">211 &amp;#8211; MTA Open Data Challenge</title>
     <id>https://news.ycombinator.com/item?id=41670186</id>
     <updated>2024-09-27T13:27:05Z</updated>
     <published>2024-09-27T13:27:05Z</published>
@@ -249,10 +282,10 @@
     <author>
       <name>oftenwrong</name>
     </author>
-    <content type="html">&lt;p&gt;207 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41670186&quot;&gt;67 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41670186&quot;&gt;67 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;211 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=41670186&quot;&gt;67 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41670186&quot;&gt;67 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">151 &amp;#8211; Greenwich: an experiment in collaborative links</title>
+    <title type="html">152 &amp;#8211; Greenwich: an experiment in collaborative links</title>
     <id>https://news.ycombinator.com/item?id=41670140</id>
     <updated>2024-09-27T13:22:35Z</updated>
     <published>2024-09-27T13:22:35Z</published>
@@ -260,7 +293,7 @@
     <author>
       <name>onlyfootnotes</name>
     </author>
-    <content type="html">&lt;p&gt;151 point, &lt;a href=&quot;https://news.ycombinator.com/item?id=41670140&quot;&gt;93 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41670140&quot;&gt;93 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;152 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41670140&quot;&gt;93 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41670140&quot;&gt;93 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
     <title type="html">112 &amp;#8211; Japan's humble onigiri took over lunchtimes around the world</title>
@@ -274,7 +307,7 @@
     <content type="html">&lt;p&gt;112 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41670004&quot;&gt;73 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41670004&quot;&gt;73 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">98 &amp;#8211; The CRPG Book Project (2023)</title>
+    <title type="html">99 &amp;#8211; The CRPG Book Project (2023)</title>
     <id>https://news.ycombinator.com/item?id=41669990</id>
     <updated>2024-09-27T13:09:46Z</updated>
     <published>2024-09-27T13:09:46Z</published>
@@ -282,10 +315,10 @@
     <author>
       <name>ibobev</name>
     </author>
-    <content type="html">&lt;p&gt;98 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41669990&quot;&gt;26 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41669990&quot;&gt;26 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;99 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41669990&quot;&gt;26 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41669990&quot;&gt;26 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">178 &amp;#8211; Our container platform is in production. It has GPUs. Here's an early look</title>
+    <title type="html">179 &amp;#8211; Our container platform is in production. It has GPUs. Here's an early look</title>
     <id>https://news.ycombinator.com/item?id=41669961</id>
     <updated>2024-09-27T13:05:53Z</updated>
     <published>2024-09-27T13:05:53Z</published>
@@ -293,10 +326,10 @@
     <author>
       <name>jgrahamc</name>
     </author>
-    <content type="html">&lt;p&gt;178 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41669961&quot;&gt;64 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41669961&quot;&gt;64 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;179 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41669961&quot;&gt;65 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41669961&quot;&gt;65 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
   <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">212 &amp;#8211; Moving Bricks: Money-laundering practices in the online scam industry</title>
+    <title type="html">214 &amp;#8211; Moving Bricks: Money-laundering practices in the online scam industry</title>
     <id>https://news.ycombinator.com/item?id=41669934</id>
     <updated>2024-09-27T13:03:37Z</updated>
     <published>2024-09-27T13:03:37Z</published>
@@ -304,39 +337,6 @@
     <author>
       <name>speckx</name>
     </author>
-    <content type="html">&lt;p&gt;212 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41669934&quot;&gt;161 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41669934&quot;&gt;161 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">113 &amp;#8211; Everything we know about spies is wrong</title>
-    <id>https://news.ycombinator.com/item?id=41669922</id>
-    <updated>2024-09-27T13:02:37Z</updated>
-    <published>2024-09-27T13:02:37Z</published>
-    <link href="https://lithub.com/why-everything-we-think-we-know-about-spies-is-wrong/" />
-    <author>
-      <name>bookofjoe</name>
-    </author>
-    <content type="html">&lt;p&gt;113 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41669922&quot;&gt;108 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41669922&quot;&gt;108 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">184 &amp;#8211; Raft: Understandable Distributed Consensus (2014)</title>
-    <id>https://news.ycombinator.com/item?id=41669850</id>
-    <updated>2024-09-27T12:54:55Z</updated>
-    <published>2024-09-27T12:54:55Z</published>
-    <link href="https://thesecretlivesofdata.com/raft/" />
-    <author>
-      <name>Hrun0</name>
-    </author>
-    <content type="html">&lt;p&gt;184 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41669850&quot;&gt;62 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41669850&quot;&gt;62 comments&lt;/a&gt;&lt;/p&gt;</content>
-  </entry>
-  <entry xml:base="http://hnapp.com/rss?q=score%3E85">
-    <title type="html">187 &amp;#8211; Collaborative text editing with Eg-Walker: Better, faster, smaller</title>
-    <id>https://news.ycombinator.com/item?id=41669840</id>
-    <updated>2024-09-27T12:53:15Z</updated>
-    <published>2024-09-27T12:53:15Z</published>
-    <link href="https://arxiv.org/abs/2409.14252" />
-    <author>
-      <name>czx111331</name>
-    </author>
-    <content type="html">&lt;p&gt;187 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41669840&quot;&gt;23 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41669840&quot;&gt;23 comments&lt;/a&gt;&lt;/p&gt;</content>
+    <content type="html">&lt;p&gt;214 points, &lt;a href=&quot;https://news.ycombinator.com/item?id=41669934&quot;&gt;161 comments&lt;/a&gt;&lt;br/&gt;&lt;a href=&quot;https://darkhn.com/item?id=41669934&quot;&gt;161 comments&lt;/a&gt;&lt;/p&gt;</content>
   </entry>
 </feed>
