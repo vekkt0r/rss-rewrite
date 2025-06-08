@@ -25,7 +25,7 @@ jobs:
       run: |
         git config user.name $GITHUB_ACTOR
         git config user.email $GITHUB_ACTOR@users.noreply.github.com
-        git remote add gh-pages-remote https://x-access-token:$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git
+        git remote add gh-pages-remote https://$GITHUB_TOKEN@github.com/$GITHUB_REPOSITORY.git
         git fetch --no-recurse-submodules
         git worktree add ./gh-pages gh-pages
         cd gh-pages
